@@ -1,106 +1,23 @@
-Certainly! Here's a more powerful and engaging version of your bio, emphasizing your skills and projects with a compelling tone:
-
----
-
+<!-- ================= HEADER ================= -->
 <h1 align="center">Hi 👋, I'm Manoj</h1>
-<h3 align="center">🚀 AI & ML Engineer | Python Developer | Deep Learning Innovator</h3>
+<h3 align="center">🚀 AI & ML Engineer | Deep Learning Architect | Python Specialist</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=AI+%7C+Machine+Learning+%7C+Deep+Learning;Transforming+Ideas+Into+Intelligent+Solutions;Python+Developer+Extraordinaire;Constantly+Pushing+AI+Boundaries" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=00F7FF&size=28&center=true&vCenter=true&width=700&lines=AI+%7C+Machine+Learning+%7C+Deep+Learning;Building+Next-Gen+Intelligent+Systems;Computer+Vision+%7C+NLP+Expert;Transforming+Ideas+into+AI+Products;Always+Learning+%26+Innovating" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=manojroyal422&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/manojroyal422?label=Followers&style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/manojroyal422?label=Stars&style=for-the-badge" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+<!-- ================= ABOUT ================= -->
+## 🧠 About Me
 
-- 🔭 Currently pioneering **Brain Tumor Segmentation using Deep Learning**  
-- 🌱 Evolving expertise in **Advanced ML, NLP, Model Deployment & Optimization**  
-- 👯 Passionate about **Collaborating on Cutting-Edge AI/ML Projects & Contributing to Open Source**  
-- 💬 Your go-to for **Python, ML, DL, Computer Vision, and AI Innovation**  
-- 📫 Connect with me: **manojroyal200347@gmail.com**  
-- ⚡ Fun Fact: *I turn coffee into groundbreaking AI models ☕🤖*  
-
----
-
-## 🚀 Tech Stack
-
-### 🧠 AI & ML
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-### 💻 Programming
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### 📊 Data Tools
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-
-### 🛠 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
-
----
-
-## 🌟 Featured Projects
-
-🚀 **BrainAI – Advanced Brain Tumor Segmentation**  
-Innovative Deep Learning with 3D U-Net + Interactive Flask Web Interface  
-
-🧠 **Face Mask Detection System**  
-Real-Time CNN + OpenCV with 96% Precision & Robust Deployment  
-
-🏭 **Factory Guard AI**  
-Next-Gen AI Surveillance for Industrial Safety & Accident Prevention  
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manojroyal422&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojroyal422&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🔥 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manojroyal422&theme=react-dark" />
-</p>
-
----
-
-## 👀 Visitor Counter
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=manojroyal422&label=Profile%20Views&color=blue&style=for-the-badge" />
-</p>
-
----
-
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="https://github.com/manojroyal422">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
-  </a>
-</p>
-
----
-
-## 💡 Quote
-
-> "Building intelligent systems that revolutionize lives and industries 🚀"
-
----
-
-⭐ **If you appreciate my work, give a star to my repositories and let's innovate together!**
-
----
-
-Would you like me to help you format this into a downloadable file or make any specific customizations?
+```diff
++ AI Engineer focused on building real-world intelligent systems
++ Strong in Deep Learning, Computer Vision & NLP
++ Passionate about solving real-world problems using AI
