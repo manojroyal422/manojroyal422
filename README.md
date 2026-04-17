@@ -15,6 +15,10 @@
 
 # 🚀 About Me
 
+<p align="center">
+  <img src="https://github-readme-styles.vercel.app?style=dracula&theme=dracula&animation=true&speed=1.5&line=1" />
+</p>
+
 ```yaml
 name: Manoj Royal
 role: AI & ML Engineer
@@ -70,22 +74,6 @@ mission: Build AI products that solve real-world problems.
 🔹 Hazard detection using **Computer Vision**  
 🔹 Real‑time surveillance concept  
 🔹 Smart alert generation and monitoring  
-
----
-
-# 📈 GitHub Performance (no streak focus)
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=manojroyal422&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00F7FF&icon_color=38BDF8&text_color=CBD5E1"/>
-
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=manojroyal422&show=stars,prs_merged&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00F7FF&icon_color=38BDF8&text_color=CBD5E1"/>
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojroyal422&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00F7FF&text_color=CBD5E1"/>
-</p>
-
----
 
 # 🏆 2026 Goals
 
