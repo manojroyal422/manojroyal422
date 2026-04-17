@@ -67,15 +67,6 @@ I’m Manoj, an AI & ML engineer focused on building practical intelligent syste
 - NLP systems and applied LLM workflows
 - Model optimization for real-world applications
 - End-to-end AI product development
-
----
-
-## Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manojroyal422&theme=tokyo-night&hide_border=true&area=true" />
-</p>
-
 ---
 
 ## Connect With Me
