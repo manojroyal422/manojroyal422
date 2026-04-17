@@ -1,118 +1,116 @@
-<!-- ================= HEADER ================= -->
-<h1 align="center">Hi 👋, I'm Manoj</h1>
-<h3 align="center">🚀 AI & ML Engineer | Deep Learning | Computer Vision | NLP</h3>
+<h1 align="center">Manoj Royal</h1>
+<h3 align="center">AI & ML Engineer • Deep Learning • Computer Vision • NLP</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=750&lines=AI+Engineer+%7C+Machine+Learning;Deep+Learning+%7C+Computer+Vision+%7C+NLP;Building+Real-World+AI+Systems;Turning+Ideas+into+Intelligent+Products" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3000&color=00C2FF&center=true&vCenter=true&width=800&lines=Building+real-world+AI+systems;Deep+Learning+%7C+Computer+Vision+%7C+NLP;Turning+ideas+into+intelligent+products;Always+learning%2C+always+building" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=manojroyal422&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/manojroyal422?style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/manojroyal422?style=for-the-badge" />
-</p>
-
----
-
-<!-- ================= ABOUT ================= -->
-## 🧠 About Me
-
-- 🎓 B.Tech CSE (AI & ML) Student  
-- 🔭 Building **Brain Tumor Segmentation (3D U-Net + Flask)**  
-- 🌱 Learning **Advanced ML, NLP, MLOps & Deployment**  
-- 💡 Focused on **real-world AI problem solving**  
-- 💬 Ask me about **Python, ML, DL, Computer Vision**  
-- 📫 Email: **manojroyal200347@gmail.com**  
-- ⚡ Fun fact: *I turn coffee into AI models ☕🤖*
-
----
-
-<!-- ================= TECH STACK ================= -->
-## 🚀 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,sklearn,pandas,numpy,flask,git,github,vscode,jupyter,mysql,mongodb" />
-</p>
-
----
-
-<!-- ================= PROJECTS ================= -->
-## 🌟 Featured Projects
-
-### 🧠 BrainAI – Brain Tumor Segmentation  
-- 3D U-Net Deep Learning Model  
-- MRI Scan Processing + Visualization  
-- Flask-based Web App with Dashboard  
-
-### 😷 Face Mask Detection  
-- CNN + OpenCV  
-- Real-time webcam detection  
-- Achieved 96% accuracy  
-
-### 🏭 Factory Guard AI  
-- AI-powered industrial surveillance  
-- Hazard detection system  
-- Real-time monitoring  
-
----
-
-<!-- ================= STATS ================= -->
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manojroyal422&show_icons=true&theme=tokyonight&border_radius=10" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manojroyal422&theme=tokyonight&border_radius=10" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojroyal422&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-<!-- ================= GRAPH ================= -->
-## ⚡ Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manojroyal422&theme=tokyo-night&area=true" />
-</p>
-
----
-
-<!-- ================= TROPHIES ================= -->
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=manojroyal422&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-<!-- ================= CONNECT ================= -->
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+  <a href="https://github.com/manojroyal422">
+    <img src="https://img.shields.io/github/followers/manojroyal422?style=for-the-badge&color=0f172a" />
   </a>
+  <a href="https://github.com/manojroyal422?tab=repositories">
+    <img src="https://img.shields.io/github/stars/manojroyal422?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=2563eb" />
+  </a>
+  <a href="mailto:manojroyal200347@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-e11d48?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## About Me
+
+I’m Manoj, an AI & ML engineer focused on building practical intelligent systems with deep learning, computer vision, and NLP.
+
+- B.Tech CSE student specializing in AI & ML
+- Currently building **Brain Tumor Segmentation using 3D U-Net + Flask**
+- Exploring **advanced ML, NLP, MLOps, and deployment**
+- Interested in solving real-world problems with AI products
+- Ask me about **Python, Machine Learning, Deep Learning, and Computer Vision**
+- Fun fact: **I turn coffee into AI models ☕🤖**
+
+---
+
+## Core Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,pandas,numpy,flask,git,github,vscode,jupyter,mysql,mongodb" />
+</p>
+
+---
+
+## Featured Projects
+
+### BrainAI — Brain Tumor Segmentation
+- Built a **3D U-Net** based segmentation pipeline for MRI brain scans
+- Added **scan processing and visualization**
+- Integrated the model into a **Flask web application**
+- Focus: medical imaging, segmentation workflow, deployment-ready interface
+
+### Face Mask Detection
+- Developed a **CNN + OpenCV** based real-time detection system
+- Enabled **webcam-based inference**
+- Achieved **96% accuracy**
+- Focus: computer vision, classification, real-time prediction
+
+### Factory Guard AI
+- Designed an **AI-powered industrial surveillance concept**
+- Built for **hazard detection and safety monitoring**
+- Focus: real-time monitoring, industrial AI, safety automation
+
+---
+
+## What I’m Learning
+
+- MLOps and deployment workflows
+- NLP systems and applied LLM workflows
+- Model optimization for real-world applications
+- End-to-end AI product development
+
+---
+
+## GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=manojroyal422&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=manojroyal422&theme=tokyonight&hide_border=true&border_radius=12" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojroyal422&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
+</p>
+
+---
+
+## Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manojroyal422&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+---
+
+## Connect With Me
+
+<p align="left">
   <a href="mailto:manojroyal200347@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
   <a href="https://github.com/manojroyal422">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
 </p>
 
 ---
 
-<!-- ================= QUOTE ================= -->
-## 💡 Mindset
+## Mindset
 
-<p align="center">
+> Building AI systems that solve real problems.
+
+<p align="left">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
-
----
-
-<!-- ================= FOOTER ================= -->
-<h3 align="center">🚀 Building AI Systems That Solve Real Problems</h3>
