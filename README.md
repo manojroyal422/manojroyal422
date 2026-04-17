@@ -1,89 +1,97 @@
-<h1 align="center">Manoj Royal</h1>
-<h3 align="center">AI & ML Engineer • Deep Learning • Computer Vision • NLP</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3000&color=00C2FF&center=true&vCenter=true&width=800&lines=Building+real-world+AI+systems;Deep+Learning+%7C+Computer+Vision+%7C+NLP;Turning+ideas+into+intelligent+products;Always+learning%2C+always+building" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,25:0f172a,50:111827,75:0ea5e9,100:22d3ee&height=220&section=header&text=Manoj%20Royal&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20%7C%20Deep%20Learning%20%7C%20Computer%20Vision%20%7C%20NLP&descAlignY=58&descSize=18" />
 </p>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=24&duration=2800&pause=1000&color=22D3EE&center=true&vCenter=true&width=900&lines=Building+AI+products+with+real-world+use+cases;Deep+Learning+Engineer+focused+on+impact;Computer+Vision+%7C+NLP+%7C+Deployment;From+models+to+usable+systems" />
+</p>
+
+<p align="center">
+  <a href="mailto:manojroyal200347@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-e11d48?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
   <a href="https://github.com/manojroyal422">
     <img src="https://img.shields.io/github/followers/manojroyal422?style=for-the-badge&color=0f172a" />
   </a>
   <a href="https://github.com/manojroyal422?tab=repositories">
-    <img src="https://img.shields.io/github/stars/manojroyal422?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=2563eb" />
+    <img src="https://img.shields.io/github/stars/manojroyal422?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=0284c7" />
   </a>
-  <a href="mailto:manojroyal200347@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-e11d48?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## About Me
+##  Profile
 
-I’m Manoj, an AI & ML engineer focused on building practical intelligent systems with deep learning, computer vision, and NLP.
+I’m **Manoj Royal**, an AI & ML engineer focused on building practical systems in **Deep Learning, Computer Vision, and NLP**.
 
-- B.Tech CSE student specializing in AI & ML
-- Currently building **Brain Tumor Segmentation using 3D U-Net + Flask**
-- Exploring **advanced ML, NLP, MLOps, and deployment**
-- Interested in solving real-world problems with AI products
-- Ask me about **Python, Machine Learning, Deep Learning, and Computer Vision**
-- Fun fact: **I turn coffee into AI models ☕🤖**
+- **Education:** B.Tech CSE (AI & ML)
+- **Current Build:** Brain Tumor Segmentation using **3D U-Net + Flask**
+- **Learning:** MLOps, advanced ML systems, deployment pipelines
+- **Strengths:** Python, model building, applied computer vision, experimentation
+- **Mindset:** Build useful AI, not just demos
 
 ---
 
-## Core Stack
+##  Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,pandas,numpy,flask,git,github,vscode,jupyter,mysql,mongodb" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,pandas,numpy,flask,git,github,jupyter,vscode,mysql,mongodb" />
 </p>
 
 ---
 
-## Featured Projects
+##  Featured Work
 
-### BrainAI — Brain Tumor Segmentation
-- Built a **3D U-Net** based segmentation pipeline for MRI brain scans
-- Added **scan processing and visualization**
-- Integrated the model into a **Flask web application**
-- Focus: medical imaging, segmentation workflow, deployment-ready interface
+<table>
+<tr>
+<td width="33%">
+
+### BrainAI
+**Brain Tumor Segmentation**
+- 3D U-Net pipeline
+- MRI scan segmentation
+- Flask app interface
+- Medical imaging workflow
+
+</td>
+<td width="33%">
 
 ### Face Mask Detection
-- Developed a **CNN + OpenCV** based real-time detection system
-- Enabled **webcam-based inference**
-- Achieved **96% accuracy**
-- Focus: computer vision, classification, real-time prediction
+**Real-time CV System**
+- CNN + OpenCV
+- Webcam inference
+- 96% accuracy
+- Lightweight deployment flow
+
+</td>
+<td width="33%">
 
 ### Factory Guard AI
-- Designed an **AI-powered industrial surveillance concept**
-- Built for **hazard detection and safety monitoring**
-- Focus: real-time monitoring, industrial AI, safety automation
+**Industrial Safety AI**
+- Hazard detection concept
+- Real-time monitoring
+- Surveillance intelligence
+- Applied AI for safety
+
+</td>
+</tr>
+</table>
 
 ---
 
-## What I’m Learning
-
-- MLOps and deployment workflows
-- NLP systems and applied LLM workflows
-- Model optimization for real-world applications
-- End-to-end AI product development
-
----
-
-## GitHub Analytics
+##  Metrics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=manojroyal422&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=manojroyal422&theme=tokyonight&hide_border=true&border_radius=12" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=manojroyal422&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=manojroyal422&theme=github-dark-blue&hide_border=true&background=00000000" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojroyal422&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojroyal422&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
 </p>
-
----
-
-## Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=manojroyal422&theme=tokyo-night&hide_border=true&area=true" />
@@ -91,26 +99,14 @@ I’m Manoj, an AI & ML engineer focused on building practical intelligent syste
 
 ---
 
-## Connect With Me
+##  Contact
 
 <p align="left">
-  <a href="mailto:manojroyal200347@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-  <a href="https://github.com/manojroyal422">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
+  <a href="mailto:manojroyal200347@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://github.com/manojroyal422"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 </p>
 
 ---
 
-## Mindset
-
-> Building AI systems that solve real problems.
-
-<p align="left">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
+> **Building AI systems that solve real problems.**
