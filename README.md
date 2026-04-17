@@ -1,4 +1,3 @@
-````md
 <h1 align="center">⚡ MANOJ ROYAL ⚡</h1>
 <h3 align="center">AI Engineer • Machine Learning • Deep Learning • Computer Vision • NLP</h3>
 
@@ -42,7 +41,7 @@ learning_now:
   - Scalable AI Pipelines
 
 mission: Build AI products that solve real-world problems.
-````
+```
 
 ---
 
@@ -58,45 +57,28 @@ mission: Build AI products that solve real-world problems.
 
 ## 🏥 BrainAI — Brain Tumor Segmentation Platform
 
-🔹 Built advanced **3D U-Net model** for MRI scan segmentation
-🔹 Flask-based web app for prediction + visualization
-🔹 Real-world healthcare focused AI system
-🔹 End-to-end deployment ready pipeline
-
----
-
-## 😷 Face Mask Detection System
-
-🔹 Real-time CNN + OpenCV detection
-🔹 Webcam live inference support
-🔹 Achieved **96% Accuracy**
-🔹 Optimized for edge devices
+🔹 Built advanced **3D U‑Net model** for MRI scan segmentation  
+🔹 Flask‑based web app for prediction + visualization  
+🔹 Real‑world healthcare‑focused AI system  
+🔹 End‑to‑end, deployment‑ready pipeline  
 
 ---
 
 ## 🏭 Factory Guard AI
 
-🔹 Industrial safety monitoring system
-🔹 Hazard detection using Computer Vision
-🔹 Real-time surveillance concept
-🔹 Smart alert generation system
+🔹 Industrial safety monitoring system  
+🔹 Hazard detection using **Computer Vision**  
+🔹 Real‑time surveillance concept  
+🔹 Smart alert generation and monitoring  
 
 ---
 
-## 💬 NLP Intelligence Bot
-
-🔹 Resume analyzer / chatbot concept
-🔹 Text classification + entity extraction
-🔹 Built using Transformers + NLP pipelines
-
----
-
-# 📈 GitHub Performance
+# 📈 GitHub Performance (no streak focus)
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=manojroyal422&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00F7FF&icon_color=38BDF8&text_color=CBD5E1"/>
 
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=manojroyal422&theme=tokyonight&hide_border=true&background=00000000&ring=00F7FF&fire=38BDF8&currStreakLabel=00F7FF"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=manojroyal422&show=stars,prs_merged&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00F7FF&icon_color=38BDF8&text_color=CBD5E1"/>
 </p>
 
 <p align="center">
@@ -105,21 +87,13 @@ mission: Build AI products that solve real-world problems.
 
 ---
 
-# ⚡ Contribution Graph
+# 🏆 2026 Goals
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manojroyal422&theme=tokyo-night&hide_border=true&area=true&line=00F7FF&point=38BDF8&color=22D3EE"/>
-</p>
-
----
-
-# 🏆 Achievements Goals 2026
-
-✔ Build 5 Production AI Projects
-✔ Master MLOps + Cloud AI Deployment
-✔ Contribute to Open Source
-✔ Land Top AI/ML Role
-✔ Become Elite AI Engineer
+✔ Build **5 production‑grade AI projects**  
+✔ Master **MLOps + Cloud AI deployment**  
+✔ Contribute to **meaningful open‑source**  
+✔ Land **top AI/ML internships and roles**  
+✔ Become an **elite AI engineer**  
 
 ---
 
@@ -135,4 +109,3 @@ mission: Build AI products that solve real-world problems.
 
 <h2 align="center">🔥 Fresher Today. AI Leader Tomorrow. 🔥</h2>
 <h3 align="center">Building intelligent systems that matter.</h3>
-```
