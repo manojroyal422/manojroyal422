@@ -1,94 +1,225 @@
 <h1 align="center">Manoj Royal</h1>
-<h3 align="center">Associate Data Scientist | AI/ML Engineer | NLP & Generative AI</h3>
+
+<h3 align="center">
+AI/ML Engineer • Data Scientist • Generative AI Engineer • NLP Enthusiast
+</h3>
 
 <p align="center">
   <a href="mailto:manojroyal200347@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-e11d48?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  
   <a href="https://github.com/manojroyal422">
-    <img src="https://img.shields.io/github/followers/manojroyal422?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge&logo=github"/>
+  </a>
+  
+  <a href="https://linkedin.com/in/manoj-royal">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
-
-AI/ML fresher with hands-on experience in building end-to-end Machine Learning and NLP solutions, including data preprocessing, EDA, feature engineering, model training, and deployment.
-
-- 🎓 B.Tech CSE (AI & ML)
-- 💡 Strong in **Python, SQL, Machine Learning, NLP**
-- 🤖 Built real-world projects in **Computer Vision, NLP, Predictive Modeling**
-- 🚀 Experience with **Generative AI & RAG (LangChain, FAISS)**
-- ☁️ Deployed models using **FastAPI, Docker, AWS**
-- 📊 Skilled in **data analysis, visualization, and model optimization**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=manojroyal422&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
-## 🧠 Core Skills
+# 🚀 About Me
 
-**Programming:** Python, SQL  
-**Machine Learning:** Scikit-learn, TensorFlow, PyTorch  
-**Data Analysis:** Pandas, NumPy, EDA, Feature Engineering  
-**NLP & GenAI:** Transformers, LangChain, RAG, Embeddings  
-**Visualization:** Matplotlib, Seaborn, Power BI  
-**Deployment:** FastAPI, Flask, Docker  
-**Cloud:** AWS (EC2, S3)  
+Passionate AI/ML Engineer with hands-on experience in building scalable Machine Learning, Deep Learning, NLP, and Generative AI applications.
 
----
+Experienced in developing end-to-end AI systems including:
+- Data preprocessing
+- Feature engineering
+- Model training & evaluation
+- REST API deployment
+- RAG pipelines
+- Computer Vision systems
+- AI model optimization
 
-## 🚀 Featured Projects
-
-### 🔹 AI Knowledge Assistant (RAG Chatbot)
-- Built end-to-end NLP system using **LangChain + FAISS**
-- Implemented **semantic search over large documents**
-- Achieved **<2s response latency**
-- Applied **EDA & embedding optimization**
+I enjoy solving real-world business problems using intelligent AI solutions powered by Machine Learning and Large Language Models (LLMs).
 
 ---
 
-### 🔹 Brain Tumor Segmentation
-- Developed **3D U-Net model** on 10K+ MRI scans
-- Achieved **94% Dice Score**
-- Built **Flask-based inference system**
-- Applied **model evaluation & optimization**
+# 🧠 Technical Skills
+
+## 💻 Languages
+- Python
+- SQL
+
+## 🤖 Machine Learning & Deep Learning
+- Scikit-learn
+- TensorFlow
+- PyTorch
+- XGBoost
+- CNN
+- LSTM
+- Transfer Learning
+
+## 🧠 NLP & Generative AI
+- Transformers
+- Hugging Face
+- LangChain
+- RAG
+- FAISS
+- Embeddings
+- Prompt Engineering
+- Vector Databases
+
+## 📊 Data Analysis & Visualization
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Power BI
+- EDA
+- Feature Engineering
+
+## ⚙️ Deployment & Tools
+- FastAPI
+- Flask
+- Docker
+- Git & GitHub
+- REST APIs
+- Postman
+
+## ☁️ Cloud & Platforms
+- AWS EC2
+- AWS S3
+- Google Colab
+- Jupyter Notebook
 
 ---
 
-### 🔹 Factory Guard AI (PPE Detection)
-- Built **YOLOv8-based real-time detection system**
-- Achieved **30 FPS on CPU**
-- Reduced monitoring effort by **60%**
-- Performed **data preprocessing & augmentation**
+# 🔥 Featured Projects
 
 ---
 
-### 🔹 Stock Prediction API
-- Built **LSTM + Random Forest model**
-- Performed **feature engineering & time-series analysis**
-- Achieved **18% accuracy improvement**
-- Deployed using **FastAPI + Docker**
+## 🧠 AI Knowledge Assistant (RAG Chatbot)
+
+### 🚀 Tech Stack
+LangChain • FAISS • Hugging Face • FastAPI
+
+### 📌 Highlights
+- Built end-to-end Retrieval-Augmented Generation (RAG) chatbot
+- Implemented semantic search using vector embeddings
+- Achieved response latency under 2 seconds
+- Designed scalable FastAPI backend
+
+### ✅ Impact
+- Improved contextual response accuracy
+- Enabled intelligent document retrieval
 
 ---
 
-## 📈 What I’m Learning
+## 🧬 Brain Tumor Segmentation
 
-- MLOps & scalable ML systems  
-- Advanced NLP & LLM applications  
-- Model deployment & optimization  
-- End-to-end AI product development  
+### 🚀 Tech Stack
+PyTorch • 3D U-Net • Medical Imaging • Flask
+
+### 📌 Highlights
+- Trained 3D U-Net on MRI datasets
+- Processed 10K+ MRI image slices
+- Achieved 94% Dice Similarity Score
+- Built Flask inference system
+
+### ✅ Impact
+- Automated tumor segmentation workflow
+- Improved medical image analysis accuracy
 
 ---
 
-## 🔗 Connect With Me
+## 🦺 Factory Guard AI (PPE Detection)
+
+### 🚀 Tech Stack
+YOLOv8 • OpenCV • Python
+
+### 📌 Highlights
+- Developed real-time PPE detection system
+- Implemented helmet & safety vest detection
+- Achieved 30 FPS CPU inference
+- Applied image preprocessing & augmentation
+
+### ✅ Impact
+- Reduced manual monitoring effort by 60%
+- Enhanced workplace safety compliance
+
+---
+
+## 📈 Stock Prediction API
+
+### 🚀 Tech Stack
+LSTM • Random Forest • FastAPI • Docker
+
+### 📌 Highlights
+- Developed hybrid forecasting model
+- Performed feature engineering & time-series analysis
+- Improved prediction accuracy by 18%
+- Containerized deployment using Docker
+
+### ✅ Impact
+- Automated stock prediction workflows
+- Delivered scalable prediction APIs
+
+---
+
+# 📚 Currently Learning
+
+- Advanced Generative AI
+- MLOps & CI/CD
+- LLM Fine-Tuning
+- AI Infrastructure
+- Distributed AI Systems
+- Scalable Model Deployment
+
+---
+
+# 🏆 Strengths
+
+- Problem Solving
+- Analytical Thinking
+- AI System Design
+- Fast Learning Ability
+- Team Collaboration
+- Research Mindset
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=manojroyal422&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=manojroyal422&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojroyal422&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+# 🌟 Career Objective
+
+> To build scalable, intelligent, and impactful AI solutions using Machine Learning, NLP, Generative AI, and cloud technologies that solve real-world business problems.
+
+---
+
+# 🌐 Connect With Me
 
 <p align="left">
   <a href="mailto:manojroyal200347@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
+
   <a href="https://github.com/manojroyal422">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
+
   <a href="https://linkedin.com/in/manoj-royal">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
@@ -96,6 +227,18 @@ AI/ML fresher with hands-on experience in building end-to-end Machine Learning a
 
 ---
 
-## 🎯 Goal
+# ⚡ Fun Fact
 
-> To build scalable, data-driven AI solutions that solve real-world business problems.
+```python
+while(True):
+    learn()
+    build()
+    improve()
+    deploy()
+```
+
+---
+
+<h3 align="center">
+⭐ Building the future with AI, one project at a time ⭐
+</h3>
