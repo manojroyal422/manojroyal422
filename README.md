@@ -131,17 +131,7 @@ LSTM • Random Forest • FastAPI • Docker
 - Improved prediction accuracy by 18%
 - Containerized API deployment
 
----
 
-
-
----
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=manojroyal422&theme=tokyonight&hide_border=true"/>
-
-</div>
 
 ---
 
