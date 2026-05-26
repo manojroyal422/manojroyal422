@@ -1,95 +1,116 @@
-<h1 align="center">Manoj Royal</h1>
+<div align="center">
 
-<h3 align="center">
-AI/ML Engineer • Data Scientist • Generative AI Engineer • NLP Enthusiast
-</h3>
+# 🚀 Manoj Royal
 
-<p align="center">
-  <a href="mailto:manojroyal200347@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  
-  <a href="https://github.com/manojroyal422">
-    <img src="https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge&logo=github"/>
-  </a>
-  
-  <a href="https://linkedin.com/in/manoj-royal">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI%2FML+Engineer;Data+Scientist;Generative+AI+Developer;NLP+%26+Computer+Vision+Engineer;Building+Intelligent+AI+Systems" />
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=manojroyal422&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+<div align="center">
+
+<img src="https://img.shields.io/badge/AI%2FML-Engineer-blueviolet?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GenAI-Developer-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLP-Specialist-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Open%20Source-Contributor-orange?style=for-the-badge"/>
+
+</div>
 
 ---
 
-# 🚀 About Me
+<div align="center">
 
-Passionate AI/ML Engineer with hands-on experience in building scalable Machine Learning, Deep Learning, NLP, and Generative AI applications.
+<a href="mailto:manojroyal200347@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-Experienced in developing end-to-end AI systems including:
-- Data preprocessing
-- Feature engineering
-- Model training & evaluation
-- REST API deployment
-- RAG pipelines
-- Computer Vision systems
-- AI model optimization
+<a href="https://github.com/manojroyal422">
+<img src="https://img.shields.io/badge/GitHub-Portfolio-black?style=for-the-badge&logo=github"/>
+</a>
 
-I enjoy solving real-world business problems using intelligent AI solutions powered by Machine Learning and Large Language Models (LLMs).
+<a href="https://linkedin.com/in/manoj-royal">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</div>
 
 ---
 
-# 🧠 Technical Skills
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=manojroyal422&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
+
+</div>
+
+---
+
+# 🧠 About Me
+
+```python
+class ManojRoyal:
+
+    def __init__(self):
+        self.role = "AI/ML Engineer"
+        self.language = ["Python", "SQL"]
+        self.specialization = [
+            "Machine Learning",
+            "Deep Learning",
+            "NLP",
+            "Generative AI",
+            "Computer Vision"
+        ]
+
+    def current_focus(self):
+        return [
+            "LLMs",
+            "RAG Systems",
+            "MLOps",
+            "AI Deployment",
+            "Scalable AI Products"
+        ]
+
+    def life_motto(self):
+        return "Build AI that solves real-world problems 🚀"
+```
+
+---
+
+# ⚡ Tech Stack
+
+<div align="center">
 
 ## 💻 Languages
-- Python
-- SQL
 
-## 🤖 Machine Learning & Deep Learning
-- Scikit-learn
-- TensorFlow
-- PyTorch
-- XGBoost
-- CNN
-- LSTM
-- Transfer Learning
+<img src="https://skillicons.dev/icons?i=python,mysql"/>
 
-## 🧠 NLP & Generative AI
-- Transformers
-- Hugging Face
-- LangChain
-- RAG
-- FAISS
-- Embeddings
-- Prompt Engineering
-- Vector Databases
+---
 
-## 📊 Data Analysis & Visualization
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Power BI
-- EDA
-- Feature Engineering
+## 🤖 AI / ML / DL
 
-## ⚙️ Deployment & Tools
-- FastAPI
-- Flask
-- Docker
-- Git & GitHub
-- REST APIs
-- Postman
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
 
-## ☁️ Cloud & Platforms
-- AWS EC2
-- AWS S3
-- Google Colab
-- Jupyter Notebook
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge"/>
+
+---
+
+## ☁️ Cloud & Deployment
+
+<img src="https://skillicons.dev/icons?i=aws,docker,fastapi,flask"/>
+
+---
+
+## 📊 Data Science
+
+<img src="https://skillicons.dev/icons?i=opencv"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi"/>
+
+</div>
 
 ---
 
@@ -99,146 +120,168 @@ I enjoy solving real-world business problems using intelligent AI solutions powe
 
 ## 🧠 AI Knowledge Assistant (RAG Chatbot)
 
-### 🚀 Tech Stack
-LangChain • FAISS • Hugging Face • FastAPI
+### 🚀 Features
+✅ LangChain + FAISS  
+✅ Semantic Search  
+✅ Transformer Embeddings  
+✅ FastAPI Backend  
+✅ Low-Latency Responses  
 
-### 📌 Highlights
-- Built end-to-end Retrieval-Augmented Generation (RAG) chatbot
-- Implemented semantic search using vector embeddings
-- Achieved response latency under 2 seconds
-- Designed scalable FastAPI backend
-
-### ✅ Impact
-- Improved contextual response accuracy
-- Enabled intelligent document retrieval
+### 💡 Impact
+- Intelligent document retrieval
+- Optimized RAG pipeline
+- Response latency under 2 seconds
 
 ---
 
 ## 🧬 Brain Tumor Segmentation
 
-### 🚀 Tech Stack
-PyTorch • 3D U-Net • Medical Imaging • Flask
+### 🚀 Features
+✅ 3D U-Net Architecture  
+✅ MRI Image Processing  
+✅ Flask Deployment  
+✅ Deep Learning Optimization  
 
-### 📌 Highlights
-- Trained 3D U-Net on MRI datasets
-- Processed 10K+ MRI image slices
-- Achieved 94% Dice Similarity Score
-- Built Flask inference system
-
-### ✅ Impact
-- Automated tumor segmentation workflow
-- Improved medical image analysis accuracy
+### 📈 Results
+- 94% Dice Similarity Score
+- Processed 10K+ MRI scans
 
 ---
 
-## 🦺 Factory Guard AI (PPE Detection)
+## 🦺 Factory Guard AI
 
-### 🚀 Tech Stack
-YOLOv8 • OpenCV • Python
+### 🚀 Features
+✅ YOLOv8 Real-Time Detection  
+✅ PPE Monitoring  
+✅ CPU Optimization  
+✅ OpenCV Integration  
 
-### 📌 Highlights
-- Developed real-time PPE detection system
-- Implemented helmet & safety vest detection
-- Achieved 30 FPS CPU inference
-- Applied image preprocessing & augmentation
-
-### ✅ Impact
-- Reduced manual monitoring effort by 60%
-- Enhanced workplace safety compliance
+### 📈 Results
+- 30 FPS real-time inference
+- Reduced manual monitoring by 60%
 
 ---
 
 ## 📈 Stock Prediction API
 
-### 🚀 Tech Stack
-LSTM • Random Forest • FastAPI • Docker
+### 🚀 Features
+✅ LSTM + Random Forest  
+✅ Time-Series Analysis  
+✅ Feature Engineering  
+✅ Docker Deployment  
 
-### 📌 Highlights
-- Developed hybrid forecasting model
-- Performed feature engineering & time-series analysis
+### 📈 Results
 - Improved prediction accuracy by 18%
-- Containerized deployment using Docker
-
-### ✅ Impact
-- Automated stock prediction workflows
-- Delivered scalable prediction APIs
-
----
-
-# 📚 Currently Learning
-
-- Advanced Generative AI
-- MLOps & CI/CD
-- LLM Fine-Tuning
-- AI Infrastructure
-- Distributed AI Systems
-- Scalable Model Deployment
-
----
-
-# 🏆 Strengths
-
-- Problem Solving
-- Analytical Thinking
-- AI System Design
-- Fast Learning Ability
-- Team Collaboration
-- Research Mindset
+- Scalable REST API deployment
 
 ---
 
 # 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manojroyal422&show_icons=true&theme=tokyonight" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=manojroyal422&theme=tokyonight" />
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=manojroyal422&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojroyal422&layout=compact&theme=tokyonight" />
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojroyal422&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
-# 🌟 Career Objective
+<div align="center">
 
-> To build scalable, intelligent, and impactful AI solutions using Machine Learning, NLP, Generative AI, and cloud technologies that solve real-world business problems.
+<img src="https://streak-stats.demolab.com?user=manojroyal422&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=manojroyal422&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=manojroyal422&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🌱 Currently Learning
+
+```yaml
+Learning:
+  - Advanced Generative AI
+  - LLM Fine-Tuning
+  - MLOps
+  - AI Infrastructure
+  - Distributed AI Systems
+  - Scalable Model Deployment
+```
+
+---
+
+# 🎯 Career Objective
+
+> To build scalable and intelligent AI solutions using Machine Learning, NLP, Generative AI, and cloud technologies that create real-world business impact.
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="left">
-  <a href="mailto:manojroyal200347@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
+<div align="center">
 
-  <a href="https://github.com/manojroyal422">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
+<a href="mailto:manojroyal200347@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
 
-  <a href="https://linkedin.com/in/manoj-royal">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-</p>
+<a href="https://github.com/manojroyal422">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://linkedin.com/in/manoj-royal">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+</div>
 
 ---
 
 # ⚡ Fun Fact
 
 ```python
-while(True):
+while True:
+
     learn()
     build()
-    improve()
     deploy()
+    improve()
+
+    if success:
+        level_up()
 ```
 
 ---
 
-<h3 align="center">
-⭐ Building the future with AI, one project at a time ⭐
-</h3>
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+the+Future+with+AI+🚀;Always+Learning+New+Things+⚡;Open+to+AI%2FML+Opportunities+🔥" />
+
+</div>
+
+---
+
+<div align="center">
+
+## ⭐ If you like my work, give a star to my repositories ⭐
+
+</div>
