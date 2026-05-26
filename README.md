@@ -1,19 +1,8 @@
 <div align="center">
 
-# 🚀 Manoj Royal
+# 👋 Hi, I'm Manoj Royal
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI%2FML+Engineer;Data+Scientist;Generative+AI+Developer;NLP+%26+Computer+Vision+Engineer;Building+Intelligent+AI+Systems" />
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/AI%2FML-Engineer-blueviolet?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/GenAI-Developer-red?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NLP-Specialist-success?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Open%20Source-Contributor-orange?style=for-the-badge"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=AI%2FML+Engineer;Data+Science+Enthusiast;Generative+AI+Learner;NLP+%26+Computer+Vision+Developer;Open+to+AI%2FML+Opportunities" />
 
 </div>
 
@@ -39,76 +28,52 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=manojroyal422&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=manojroyal422&label=Profile%20Views&color=0e75b6&style=flat"/>
 
 </div>
 
 ---
 
-# 🧠 About Me
+# 🚀 About Me
 
-```python
-class ManojRoyal:
-
-    def __init__(self):
-        self.role = "AI/ML Engineer"
-        self.language = ["Python", "SQL"]
-        self.specialization = [
-            "Machine Learning",
-            "Deep Learning",
-            "NLP",
-            "Generative AI",
-            "Computer Vision"
-        ]
-
-    def current_focus(self):
-        return [
-            "LLMs",
-            "RAG Systems",
-            "MLOps",
-            "AI Deployment",
-            "Scalable AI Products"
-        ]
-
-    def life_motto(self):
-        return "Build AI that solves real-world problems 🚀"
-```
+🎓 B.Tech CSE (AI & ML) Student  
+💡 Passionate about Artificial Intelligence, Machine Learning & Generative AI  
+🤖 Building real-world AI projects using NLP, Computer Vision & Deep Learning  
+📚 Currently learning MLOps, LLMs & scalable AI systems  
+🚀 Interested in AI/ML Engineer and Data Scientist roles  
 
 ---
 
-# ⚡ Tech Stack
+# 🧠 Tech Stack
 
 <div align="center">
 
 ## 💻 Languages
-
 <img src="https://skillicons.dev/icons?i=python,mysql"/>
 
 ---
 
 ## 🤖 AI / ML / DL
-
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
 
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+
+---
+
+## 🧠 NLP & Generative AI
 <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-Pipeline-blueviolet?style=for-the-badge"/>
 
 ---
 
-## ☁️ Cloud & Deployment
-
-<img src="https://skillicons.dev/icons?i=aws,docker,fastapi,flask"/>
+## ⚙️ Tools & Deployment
+<img src="https://skillicons.dev/icons?i=docker,fastapi,flask,git,github"/>
 
 ---
 
-## 📊 Data Science
-
-<img src="https://skillicons.dev/icons?i=opencv"/>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi"/>
+## ☁️ Cloud
+<img src="https://skillicons.dev/icons?i=aws"/>
 
 </div>
 
@@ -116,73 +81,65 @@ class ManojRoyal:
 
 # 🔥 Featured Projects
 
----
-
 ## 🧠 AI Knowledge Assistant (RAG Chatbot)
 
-### 🚀 Features
-✅ LangChain + FAISS  
-✅ Semantic Search  
-✅ Transformer Embeddings  
-✅ FastAPI Backend  
-✅ Low-Latency Responses  
+### 🚀 Tech Stack
+LangChain • FAISS • FastAPI • Hugging Face
 
-### 💡 Impact
-- Intelligent document retrieval
-- Optimized RAG pipeline
-- Response latency under 2 seconds
+### 📌 Features
+- Built Retrieval-Augmented Generation (RAG) chatbot
+- Implemented semantic search using embeddings
+- Optimized response latency under 2 seconds
+- Developed scalable FastAPI backend
 
 ---
 
 ## 🧬 Brain Tumor Segmentation
 
-### 🚀 Features
-✅ 3D U-Net Architecture  
-✅ MRI Image Processing  
-✅ Flask Deployment  
-✅ Deep Learning Optimization  
+### 🚀 Tech Stack
+PyTorch • 3D U-Net • Flask
 
-### 📈 Results
-- 94% Dice Similarity Score
-- Processed 10K+ MRI scans
+### 📌 Features
+- Developed deep learning model for MRI segmentation
+- Processed 10K+ MRI image slices
+- Achieved 94% Dice Score
+- Built inference web application
 
 ---
 
 ## 🦺 Factory Guard AI
 
-### 🚀 Features
-✅ YOLOv8 Real-Time Detection  
-✅ PPE Monitoring  
-✅ CPU Optimization  
-✅ OpenCV Integration  
+### 🚀 Tech Stack
+YOLOv8 • OpenCV • Python
 
-### 📈 Results
-- 30 FPS real-time inference
-- Reduced manual monitoring by 60%
+### 📌 Features
+- Built real-time PPE detection system
+- Implemented safety helmet & vest detection
+- Achieved 30 FPS CPU inference
+- Applied preprocessing & augmentation techniques
 
 ---
 
 ## 📈 Stock Prediction API
 
-### 🚀 Features
-✅ LSTM + Random Forest  
-✅ Time-Series Analysis  
-✅ Feature Engineering  
-✅ Docker Deployment  
+### 🚀 Tech Stack
+LSTM • Random Forest • FastAPI • Docker
 
-### 📈 Results
+### 📌 Features
+- Developed hybrid stock forecasting system
+- Performed feature engineering & time-series analysis
 - Improved prediction accuracy by 18%
-- Scalable REST API deployment
+- Containerized API deployment
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=manojroyal422&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=manojroyal422&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojroyal422&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojroyal422&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -196,43 +153,22 @@ class ManojRoyal:
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=manojroyal422&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=manojroyal422&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
 # 🌱 Currently Learning
 
 ```yaml
 Learning:
-  - Advanced Generative AI
-  - LLM Fine-Tuning
+  - Generative AI
+  - LLM Applications
   - MLOps
-  - AI Infrastructure
-  - Distributed AI Systems
-  - Scalable Model Deployment
+  - AI Deployment
+  - Scalable AI Systems
 ```
 
 ---
 
 # 🎯 Career Objective
 
-> To build scalable and intelligent AI solutions using Machine Learning, NLP, Generative AI, and cloud technologies that create real-world business impact.
+> To contribute as an AI/ML Engineer by building scalable and intelligent AI solutions that solve real-world business problems using Machine Learning, NLP, and Generative AI.
 
 ---
 
@@ -263,18 +199,17 @@ while True:
 
     learn()
     build()
-    deploy()
     improve()
 
-    if success:
-        level_up()
+    if opportunity:
+        grab_it()
 ```
 
 ---
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+the+Future+with+AI+🚀;Always+Learning+New+Things+⚡;Open+to+AI%2FML+Opportunities+🔥" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Always+Learning+New+Things+🚀;Passionate+About+AI+%26+ML+⚡;Open+to+Internships+%26+Jobs+🔥" />
 
 </div>
 
@@ -282,6 +217,6 @@ while True:
 
 <div align="center">
 
-## ⭐ If you like my work, give a star to my repositories ⭐
+⭐ Thanks for visiting my profile ⭐
 
 </div>
