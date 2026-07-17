@@ -32,6 +32,16 @@ looking_for: AI/ML Engineer & Data Scientist roles
 
 <br/>
 
+## Languages I Use Most
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojroyal422&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true" width="60%"/>
+
+</div>
+
+<br/>
+
 ## Tech Stack
 
 <table align="center">
@@ -121,22 +131,9 @@ looking_for: AI/ML Engineer & Data Scientist roles
 <img src="https://github-readme-stats.vercel.app/api?username=manojroyal422&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=manojroyal422&theme=tokyonight&hide_border=true" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojroyal422&layout=compact&theme=tokyonight&hide_border=true" width="49%"/>
-<img src="https://github-profile-trophy.vercel.app/?username=manojroyal422&theme=tokyonight&no-frame=true&row=1&column=4" width="49%"/>
-
 <br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=manojroyal422&theme=tokyo-night&hide_border=true&area=true" width="98%"/>
-
-</div>
-
-<br/>
-
-## Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/manojroyal422/manojroyal422/output/github-contribution-grid-snake-dark.svg" width="98%"/>
 
 </div>
 
