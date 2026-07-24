@@ -1,201 +1,134 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24,30&text=Hi%20👋,%20I'm%20Manoj%20Royal&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Engineer%20|%20Generative%20AI%20|%20LLMs%20%26%20RAG%20Systems&descAlignY=58&descSize=20"/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1200&color=00C2FF&center=true&vCenter=true&width=800&lines=🤖+AI%2FML+Engineer+%7C+GenAI+Developer;🧠+LLMs+%2B+RAG+%2B+Agentic+AI+Systems;⚙️+Python+%7C+PyTorch+%7C+TensorFlow;🚀+FastAPI+%7C+Docker+%7C+AWS;💡+Building+end-to-end+AI+products;💼+Open+to+AI%2FML+Engineer+roles"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24,30&text=Manoj%20Royal&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Generative%20AI%20%7C%20LLMs%20%26%20Agentic%20Systems&descAlignY=60&descSize=20"/>
 
 <br>
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=26&pause=1200&color=00C2FF&center=true&vCenter=true&width=900&lines=🤖+AI+Engineer+%7C+Architecting+Agentic+Systems;🧠+Generative+AI+%7C+LLMs+%7C+Production+RAG;⚡+FastAPI+%7C+PyTorch+%7C+Vector+Databases;☁️+AWS+%7C+Docker+%7C+Scalable+MLOps;💼+Open+to+AI%2FML+Engineer+Roles"/>
+
+<br><br>
+
+<!-- CONTACT & SOCIAL BADGES -->
 <a href="mailto:manojroyal965@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://linkedin.com/in/manoj-royal-270301270">
+<a href="https://linkedin.com/in/manoj-royal-270301270" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://github.com/manojroyal422">
+<a href="https://github.com/manojroyal422" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://www.kaggle.com/">
+<a href="https://www.kaggle.com/" target="_blank">
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
 </a>
-<a href="https://leetcode.com/">
+<a href="https://leetcode.com/" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 <br><br>
 
+<!-- STATS BADGES -->
 <img src="https://komarev.com/ghpvc/?username=manojroyal422&style=for-the-badge&label=PROFILE+VIEWS&color=0E75B6"/>
-<img src="https://img.shields.io/github/followers/manojroyal422?style=for-the-badge&logo=github&color=0E75B6"/>
-<img src="https://img.shields.io/badge/Open%20to-Work-success?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Focus-AI%20|%20ML%20|%20GenAI-blueviolet?style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/manojroyal422?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Status-Open%20to%20Work-success?style=for-the-badge"/>
 
 </div>
 
-<br>
+---
 
-## 👨‍💻 About Me
+## 🎯 About Me
 
-```yaml
-name: G. Manoj
-role: AI/ML Engineer | GenAI & LLM Developer
-location: Bengaluru, India
-education: B.Tech, Computer Science Engineering (AI & ML) — CGPA 8.2/10
-focus: [Generative AI, LLMs, RAG Pipelines, Computer Vision, Backend APIs]
-currently_building: End-to-end AI applications — from data ingestion to production deployment
-publication: "Brain Tumor Detection and Segmentation using Deep Learning" — UGC Peer-Reviewed, IF 6.35
-fun_fact: I turn messy datasets into deployable, scalable AI products 🚀
-```
+I am an **AI Engineer** specializing in bringing **Generative AI, Large Language Models (LLMs), and Agentic Systems** out of research notebooks and into robust, production-ready enterprise environments.
 
-- 🔭 Currently building **LLM-powered RAG platforms** and **computer vision inference services**
-- 🌱 Deepening expertise in **RAG optimization, LLM fine-tuning, and AI agents**
-- 🎯 Actively seeking **AI/ML Engineer / GenAI Developer** roles
-- ⚡ Ask me about: **RAG pipelines, model deployment, FastAPI backends, MLOps**
-- 📫 Reach me at **manojroyal965@gmail.com**
+- 🔭 **Currently Building:** Multi-agent autonomous workflows using **LangGraph / CrewAI** and enterprise-grade **RAG pipelines**.
+- ⚡ **Core Strength:** Fine-tuning open-weights models (Llama 3, Mistral), vector search optimization, and deployment via low-latency API wrappers (**FastAPI / vLLM**).
+- 🎯 **Impact Goal:** Engineering deterministic, scalable, and cost-effective AI tools that drive measurable business outcomes.
 
-<br>
+> *"Connecting cutting-edge AI research with resilient production engineering."*
 
-## 🛠️ Tech Stack
+---
 
-<div align="center">
+## 🛠️ Technical Stack & Expertise
 
-**Languages & Core**
-<br>
-<img src="https://skillicons.dev/icons?i=python,cpp,mysql&theme=dark" />
+<table>
+  <tr>
+    <td width="20%" valign="top"><b>🤖 AI / GenAI & LLMs</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+      <img src="https://img.shields.io/badge/LlamaIndex-000000?style=flat-square&logo=llamaindex&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Agentic_AI-8A2BE2?style=flat-square"/>
+      <img src="https://img.shields.io/badge/RAG-00C2FF?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Fine--Tuning_(LoRA/QLoRA)-FF6F00?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+      <img src="https://img.shields.io/badge/vLLM / Ollama-000000?style=flat-square"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="20%" valign="top"><b>🧠 Machine Learning & Deep Learning</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+      <img src="https://img.shields.io/badge/NLTK / SpaCy-09A3D5?style=flat-square"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="20%" valign="top"><b>🗄️ Vector DBs & Search</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square"/>
+      <img src="https://img.shields.io/badge/ChromaDB-FF4500?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Qdrant-D0112B?style=flat-square"/>
+      <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square"/>
+      <img src="https://img.shields.io/badge/PGVector-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="20%" valign="top"><b>⚡ MLOps & Backend Deployment</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+    </td>
+  </tr>
+</table>
 
-<br><br>
-
-**AI / ML / Deep Learning**
-<br>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark" />
-
-<br><br>
-
-**GenAI & LLM Frameworks**
-<br>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge&logo=llama&logoColor=white"/>
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
-
-<br><br>
-
-**Backend & APIs**
-<br>
-<img src="https://skillicons.dev/icons?i=fastapi,flask,git,github&theme=dark" />
-
-<br><br>
-
-**Deployment & Cloud**
-<br>
-<img src="https://skillicons.dev/icons?i=docker,aws,azure,githubactions&theme=dark" />
-
-<br><br>
-
-**Data & Visualization**
-<br>
-<img src="https://skillicons.dev/icons?i=pandas,numpy&theme=dark" />
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
-
-</div>
-
-<br>
+---
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+| Project | Key Technologies | Summary |
+| :--- | :--- | :--- |
+| **🤖 [Autonomous Agentic AI Workflow](https://github.com/manojroyal422)** | `LangGraph`, `Llama-3`, `FastAPI`, `ChromaDB` | Built a self-correcting multi-agent system capable of automated code debugging and live internet search routing. |
+| **📚 [Enterprise Production RAG Pipeline](https://github.com/manojroyal422)** | `LlamaIndex`, `Qdrant`, `Docker`, `Streamlit` | Designed a hybrid-search (dense + sparse) document QA engine with re-ranking to minimize LLM hallucinations. |
+| **⚡ [Low-Latency GenAI Microservice](https://github.com/manojroyal422)** | `FastAPI`, `vLLM`, `AWS ECS`, `Docker` | Containerized model serving layer delivering 3x faster token generation using local model quantization. |
 
-### 🔍 LLM-Powered Document Search & RAG Platform
-Built a low-latency Retrieval-Augmented Generation pipeline using LangChain, LlamaIndex, and Elasticsearch. Cut hallucination error rate from ~18% to under 4% with reranking, delivering sub-2-second responses.
-
-`Python` `LangChain` `LlamaIndex` `FastAPI` `Elasticsearch`
-
-</td>
-<td width="50%" valign="top">
-
-### 🧠 Brain Tumor Detection & Segmentation
-Trained a U-Net deep learning model on 10,000+ MRI scans achieving 94% pixel accuracy, paired with an XGBoost classifier for malignancy prediction — deployed via Dockerized FastAPI on AWS EC2.
-
-`TensorFlow` `XGBoost` `FastAPI` `Docker` `AWS`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🦺 Real-Time PPE Detection System
-Real-time computer vision application for personal protective equipment detection using OpenCV and PyTorch, with LSTM-based analytics to surface safety compliance trends.
-
-`OpenCV` `PyTorch` `LSTM` `Python`
-
-</td>
-<td width="50%" valign="top">
-
-### 💬 AI Chat Assistant
-Conversational AI application powered by LLMs and Hugging Face Transformers with vector-based semantic search, delivering grounded, context-aware responses via FastAPI.
-
-`Hugging Face` `LLMs` `FastAPI` `Vector Search`
-
-</td>
-</tr>
-</table>
-
-<br>
+---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=manojroyal422&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojroyal422&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=manojroyal422&theme=tokyonight&hide_border=true"/>
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=manojroyal422&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
-<br>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=manojroyal422&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</div>
-
-<br>
-
-## 🎓 Certifications
-
-- 🏅 Machine Learning Specialization — DeepLearning.AI (Andrew Ng), Coursera
-- 🏅 Deep Learning — NPTEL, IIT Kharagpur (2024)
-- 🏅 Python for Data Science — IBM
-- 📄 Publication: *"Brain Tumor Detection and Segmentation using Deep Learning"* — Fuzzy Systems and Soft Computing, Vol. 21 (2026), UGC Peer-Reviewed, IF 6.35
-
-<br>
-
-<div align="center">
-
-## 🤝 Let's Connect
-
-<a href="mailto:manojroyal965@gmail.com">
-  <img src="https://img.shields.io/badge/Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://linkedin.com/in/manoj-royal-270301270">
-  <img src="https://img.shields.io/badge/Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=manojroyal422&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojroyal422&layout=compact&theme=tokyonight&hide=html,css"/>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=12,20,24,30&section=footer"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=manojroyal422&theme=tokyonight"/>
 
-**⭐ If you found my work interesting, consider starring my repositories!**
+</div>
+
+---
+
+## 📫 Connect & Collaborate
+
+<div align="center">
+
+Whether you're looking for an **AI/ML Engineer**, want to collaborate on open-source GenAI projects, or just chat about LLM architecture:
+
+[📩 Email Me](mailto:manojroyal965@gmail.com) • [👔 Connect on LinkedIn](https://linkedin.com/in/manoj-royal-270301270) • [🌐 Follow on GitHub](https://github.com/manojroyal422)
 
 </div>
