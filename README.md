@@ -895,3 +895,459 @@ Hybrid Machine Learning API for stock market forecasting with REST deployment.
 - 🐳 Docker
 - 🚀 Agentic AI
 - 📊 Machine Learning
+# 🏆 Achievements
+
+<div align="center">
+
+<table>
+
+<tr>
+
+<td align="center" width="25%">
+
+# 🤖
+
+## AI Projects
+
+### **10+**
+
+Production Ready
+
+</td>
+
+<td align="center" width="25%">
+
+# 📚
+
+## Models Built
+
+### **20+**
+
+Machine Learning
+
+Deep Learning
+
+LLMs
+
+</td>
+
+<td align="center" width="25%">
+
+# 🚀
+
+## APIs
+
+### **10+**
+
+FastAPI
+
+Flask
+
+REST APIs
+
+</td>
+
+<td align="center" width="25%">
+
+# ☁️
+
+## Technologies
+
+### **25+**
+
+AI
+
+Cloud
+
+DevOps
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+---
+
+# 🎓 Certifications
+
+<div align="center">
+
+| 🎖 Certification | Provider | Status |
+|-----------------|----------|--------|
+| Machine Learning Specialization | DeepLearning.AI | ✅ Completed |
+| Deep Learning | NPTEL IIT Kharagpur | ✅ Completed |
+| Python for Data Science | IBM | ✅ Completed |
+| Generative AI Fundamentals | Self Learning | 🚀 In Progress |
+| AWS Cloud Practitioner | AWS | 📖 Planned |
+| Docker Essentials | Self Learning | 📖 Planned |
+
+</div>
+
+---
+
+# 🌍 Open Source Goals
+
+<div align="center">
+
+## 🤝 Open Source Vision
+
+</div>
+
+- 🌟 Build reusable AI libraries
+- 🤝 Contribute to Hugging Face ecosystem
+- 📚 Share AI learning resources
+- 🚀 Publish production-ready templates
+- 💡 Help beginners learn AI Engineering
+- 🔥 Contribute to LangChain ecosystem
+- 🧠 Build Agentic AI examples
+- ☁️ Open-source AI deployment templates
+
+---
+
+# 🎯 2026 Career Roadmap
+
+```text
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Q1
+
+██████████████████████████
+
+Deep Learning
+Computer Vision
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Q2
+
+██████████████████████████
+
+Generative AI
+RAG Systems
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Q3
+
+██████████████████████████
+
+Agentic AI
+LangGraph
+MCP
+AI Agents
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Q4
+
+██████████████████████████
+
+MLOps
+Kubernetes
+AWS
+Open Source
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+---
+
+# 💼 Career Interests
+
+<div align="center">
+
+| 💻 Domain | Experience |
+|-----------|------------|
+| Artificial Intelligence | ⭐⭐⭐⭐⭐ |
+| Machine Learning | ⭐⭐⭐⭐⭐ |
+| Deep Learning | ⭐⭐⭐⭐⭐ |
+| Generative AI | ⭐⭐⭐⭐⭐ |
+| Large Language Models | ⭐⭐⭐⭐⭐ |
+| Retrieval-Augmented Generation | ⭐⭐⭐⭐⭐ |
+| Computer Vision | ⭐⭐⭐⭐☆ |
+| NLP | ⭐⭐⭐⭐☆ |
+| FastAPI | ⭐⭐⭐⭐☆ |
+| Cloud Deployment | ⭐⭐⭐☆☆ |
+| Docker | ⭐⭐⭐☆☆ |
+| MLOps | ⭐⭐☆☆☆ |
+
+</div>
+
+---
+
+# 📚 Currently Learning
+
+```yaml
+Current Learning:
+
+✅ LangGraph
+
+✅ MCP Servers
+
+✅ AI Agents
+
+✅ Multi-Agent Systems
+
+✅ Advanced RAG
+
+✅ AWS AI
+
+✅ Kubernetes
+
+✅ MLOps
+
+✅ AI Security
+
+✅ Production LLM Systems
+```
+
+---
+
+# 🌟 Recruiter Highlights
+
+## ✔ Available For
+
+- AI Engineer
+- Machine Learning Engineer
+- Deep Learning Engineer
+- LLM Engineer
+- Generative AI Engineer
+- NLP Engineer
+- Computer Vision Engineer
+- AI Research Engineer
+
+---
+
+## ✔ Looking For
+
+- Full-Time Opportunities
+- AI Startups
+- Product Companies
+- Research Teams
+- Global AI Companies
+
+---
+
+## ✔ Core Strengths
+
+🧠 Problem Solving
+
+⚡ Fast Learner
+
+🚀 Production Mindset
+
+📊 Data Driven
+
+💬 Communication
+
+🤝 Team Collaboration
+
+📚 Continuous Learning
+
+🔥 Ownership
+
+---
+
+# 🌍 Community
+
+## 🤝 Let's Collaborate On
+
+- Open Source AI Projects
+
+- LangChain Applications
+
+- LLM Applications
+
+- Computer Vision
+
+- AI APIs
+
+- FastAPI Projects
+
+- RAG Systems
+
+- AI Deployment
+
+---
+
+# 💙 Support My Work
+
+<div align="center">
+
+⭐ Star my repositories if they helped you.
+
+🍴 Fork projects to build your own.
+
+🤝 Let's build something amazing together.
+
+🚀 Always open to collaborating on AI projects.
+
+</div>
+
+---
+
+# 💬 Favorite Quote
+
+<div align="center">
+
+> **"The best way to predict the future is to build it."**
+
+### 💡 Artificial Intelligence is not replacing humans.
+
+### 🚀 It is empowering humans to solve bigger problems.
+
+</div>
+
+---
+
+<div align="center">
+
+# ⭐ Thanks for visiting my profile!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=gradient&customColorList=12,20,24,30"/>
+
+### Happy Coding 👨‍💻
+
+### 🚀 Open to AI/ML Opportunities
+
+</div>
+# ⚡ Automation & GitHub Actions
+
+<div align="center">
+
+## 🤖 Profile Automation
+
+> My GitHub profile stays updated automatically using GitHub Actions.
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/manojroyal422/manojroyal422/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+
+</p>
+
+---
+
+# 📈 Auto Generated Statistics
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manojroyal422&theme=tokyonight"/>
+
+</p>
+
+---
+
+# ⚡ Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+
+```text
+Python               ████████████████████░░   80%
+
+Machine Learning     ████████████████░░░░░░   65%
+
+Generative AI        █████████████░░░░░░░░░   55%
+
+FastAPI              ████████████░░░░░░░░░░   50%
+
+Docker               █████████░░░░░░░░░░░░░   40%
+
+AWS                  ███████░░░░░░░░░░░░░░░   30%
+```
+
+<!--END_SECTION:waka-->
+
+---
+
+# 🌟 Weekly Goals
+
+- ✅ Learn one new AI concept
+- ✅ Push code daily
+- ✅ Improve one existing project
+- ✅ Solve DSA problems
+- ✅ Contribute to open source
+- ✅ Write technical notes
+- ✅ Build AI demos
+
+---
+
+# 📅 Monthly Goals
+
+| Goal | Status |
+|------|--------|
+| Build AI Project | 🚀 |
+| Learn New Framework | 🚀 |
+| Open Source Contribution | 🚀 |
+| Publish GitHub Project | 🚀 |
+| Improve README | 🚀 |
+
+---
+
+# 🔥 Current Focus
+
+```yaml
+Focus:
+
+AI Engineering
+
+Generative AI
+
+LLMs
+
+LangChain
+
+RAG
+
+FastAPI
+
+Docker
+
+AWS
+
+MLOps
+
+Agentic AI
+
+LangGraph
+
+MCP
+```
+
+---
+
+# 🌍 Connect With Me
+
+<p align="center">
+
+<a href="mailto:manojroyal965@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/manoj-royal-270301270">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/manojroyal422">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+## ⭐ Thanks for visiting!
+
+*"Code. Learn. Build. Repeat."*
+
+</div>
