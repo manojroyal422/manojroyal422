@@ -66,3 +66,230 @@ I specialize in:
 > **"Building Intelligent Systems that Create Real-World Impact."**
 
 ---
+# 🚀 About Me
+
+<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTZyd3VxOG5waTVuOWE0a3B3NWN0cnp0MGJmNjV3cGVmdmM0d2I3aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
+
+## 👨‍💻 Who Am I?
+
+I'm **Manoj Royal**, an aspiring **AI Engineer** passionate about transforming ideas into intelligent software.
+
+Instead of building notebook-only machine learning models, I enjoy designing **production-ready AI systems** that combine:
+
+- 🤖 Machine Learning
+- 🧠 Deep Learning
+- 💬 Large Language Models
+- 📚 Retrieval-Augmented Generation
+- 👁️ Computer Vision
+- ☁️ Cloud Deployment
+- ⚡ FastAPI
+- 🐳 Docker
+
+I enjoy solving real-world business problems using Artificial Intelligence while continuously exploring emerging technologies like **Agentic AI**, **LangGraph**, and **MLOps**.
+
+<br>
+
+---
+
+# 🌟 Quick Facts
+
+<table>
+
+<tr>
+<td width="220">
+
+### 🎓 Education
+
+</td>
+
+<td>
+
+B.Tech in Computer Science Engineering (AI & ML)
+
+CGPA: **8.2 / 10**
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 💼 Looking For
+
+</td>
+
+<td>
+
+AI Engineer
+
+Machine Learning Engineer
+
+Generative AI Engineer
+
+LLM Engineer
+
+NLP Engineer
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 🌍 Location
+
+</td>
+
+<td>
+
+📍 Bengaluru, India
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 🚀 Interests
+
+</td>
+
+<td>
+
+Artificial Intelligence
+
+Large Language Models
+
+RAG Systems
+
+Computer Vision
+
+Cloud AI
+
+Agentic AI
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 💡 Languages
+
+</td>
+
+<td>
+
+Python
+
+SQL
+
+C/C++
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 🧠 Currently Learning
+
+</td>
+
+<td>
+
+LangGraph
+
+MCP
+
+AI Agents
+
+MLOps
+
+AWS
+
+Kubernetes
+
+</td>
+</tr>
+
+</table>
+
+---
+
+# 🎯 My Mission
+
+> Build intelligent software that improves people's lives using Artificial Intelligence.
+
+I believe AI should not only be accurate but also **scalable**, **interpretable**, and **production-ready**.
+
+My goal is to become a world-class AI Engineer specializing in:
+
+- 🤖 Generative AI
+- 🧠 LLM Applications
+- ⚡ AI APIs
+- ☁️ Cloud AI
+- 📚 RAG Pipelines
+- 🚀 Production Deployment
+
+---
+
+# 💡 What I Love Building
+
+✔ AI Chatbots
+
+✔ RAG Applications
+
+✔ Agentic AI Systems
+
+✔ FastAPI Backends
+
+✔ Deep Learning Models
+
+✔ Computer Vision Applications
+
+✔ AI Automation
+
+✔ NLP Applications
+
+✔ Cloud-Native AI Solutions
+
+✔ End-to-End AI Products
+
+---
+
+# 📈 Current Focus
+
+```yaml
+Current Focus:
+
+  🤖 Large Language Models
+
+  📚 Retrieval-Augmented Generation
+
+  ⚡ Agentic AI
+
+  ☁️ AWS Cloud
+
+  🐳 Docker
+
+  🚀 FastAPI
+
+  📊 Machine Learning
+
+  👁️ Computer Vision
+
+  💬 NLP
+
+  🔥 Production AI Systems
+```
+
+---
+
+# ❤️ My Philosophy
+
+> **"Learn continuously, build consistently, and share knowledge openly."**
+
+I believe every project should teach something new and create real value for users.
+
+---
