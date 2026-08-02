@@ -1,191 +1,169 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=12,20,24,30&text=Manoj%20Royal&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20|%20Machine%20Learning%20|%20Generative%20AI%20|%20LLMs&descAlignY=60&descSize=22"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12,20,24,30&text=Manoj%20Royal&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20GenAI%20%7C%20RAG%20%7C%20LLMs&descAlignY=55&descSize=18"/>
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&pause=1200&color=00C2FF&center=true&vCenter=true&width=900&lines=👋+Welcome+to+My+GitHub+Profile;🤖+AI+Engineer+%7C+Generative+AI+Developer;🧠+Machine+Learning+%7C+Deep+Learning;🚀+LLMs+%7C+RAG+%7C+Agentic+AI;⚡+FastAPI+%7C+PyTorch+%7C+TensorFlow;☁️+AWS+%7C+Docker+%7C+MLOps;💼+Open+to+AI%2FML+Engineer+Roles"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=650&lines=Building+Production-Ready+AI+Systems;LLMs+%7C+RAG+%7C+Agentic+AI;Turning+Ideas+Into+Intelligent+Software;Open+to+AI%2FML+Opportunities+🚀"/>
 
 <br><br>
 
-<a href="mailto:manojroyal965@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/manoj-royal-270301270">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/manojroyal422">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.kaggle.com/">
-<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
+<a href="mailto:manojroyal965@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/manoj-royal-270301270"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/manojroyal422"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+<a href="https://www.kaggle.com/"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=manojroyal422&style=for-the-badge&label=PROFILE+VIEWS&color=0E75B6"/>
-
-<img src="https://img.shields.io/github/followers/manojroyal422?style=for-the-badge&logo=github"/>
-
-<img src="https://img.shields.io/github/stars/manojroyal422?style=for-the-badge&logo=github"/>
-
+<img src="https://komarev.com/ghpvc/?username=manojroyal422&style=for-the-badge&label=PROFILE+VIEWS&color=6C63FF"/>
+<img src="https://img.shields.io/github/followers/manojroyal422?style=for-the-badge&logo=github&color=6C63FF"/>
 <img src="https://img.shields.io/badge/Open%20to-Work-success?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Focus-AI%20%7C%20ML%20%7C%20GenAI-blueviolet?style=for-the-badge"/>
+</div>
+
+<br>
+
+## 👋 About Me
+
+<img align="right" alt="AI" width="340" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTZyd3VxOG5waTVuOWE0a3B3NWN0cnp0MGJmNjV3cGVmdmM0d2I3aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+I'm **Manoj Royal**, an aspiring **AI Engineer** who builds production-grade AI systems — not just notebook experiments.
+
+- 🔭 Currently building **LLM & RAG-powered applications**
+- 🌱 Currently learning **LangGraph, MCP, Agentic AI, MLOps, AWS, Kubernetes**
+- 🧠 Focused on **Generative AI, Computer Vision & NLP**
+- ⚡ I ship things end-to-end: model → API → Docker → cloud
+- 📫 Reach me at **manojroyal965@gmail.com**
+- 🎯 2026 Goal: become a world-class AI Engineer specializing in GenAI & production LLM systems
+
+<br clear="right"/>
+
+---
+
+## 🧬 Quick Facts
+
+<table width="100%">
+<tr>
+<td width="20%"><b>🎓 Education</b></td>
+<td>B.Tech, Computer Science (AI & ML) &nbsp;|&nbsp; CGPA: <b>8.2/10</b></td>
+</tr>
+<tr>
+<td><b>💼 Roles</b></td>
+<td>AI Engineer · ML Engineer · GenAI Engineer · LLM Engineer · NLP Engineer</td>
+</tr>
+<tr>
+<td><b>📍 Location</b></td>
+<td>Bengaluru, India</td>
+</tr>
+<tr>
+<td><b>💡 Languages</b></td>
+<td>Python · SQL · C/C++</td>
+</tr>
+<tr>
+<td><b>🚀 Interests</b></td>
+<td>LLMs · RAG · Computer Vision · Agentic AI · Cloud AI</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**
+<br>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,mysql&theme=dark"/>
+
+**AI / Machine Learning**
+<br>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+<img src="https://img.shields.io/badge/XGBoost-EC6C00?style=for-the-badge"/>
+
+**Generative AI**
+<br>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/LlamaIndex-0066FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/RAG-00C853?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FAISS-673AB7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Vector%20DBs-03A9F4?style=for-the-badge"/>
+
+**Backend & Deployment**
+<br>
+<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,docker&theme=dark"/>
+
+**Cloud & DevOps**
+<br>
+<img src="https://skillicons.dev/icons?i=aws,git,github,linux,vscode&theme=dark"/>
+
+**Data**
+<br>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb&theme=dark"/>
 
 </div>
 
 ---
-# 🚀 About Me
 
-<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTZyd3VxOG5waTVuOWE0a3B3NWN0cnp0MGJmNjV3cGVmdmM0d2I3aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
+## 🚀 Featured Projects
 
-## 👨‍💻 Who Am I?
-
-I'm **Manoj Royal**, an aspiring **AI Engineer** passionate about transforming ideas into intelligent software.
-
-Instead of building notebook-only machine learning models, I enjoy designing **production-ready AI systems** that combine:
-
-- 🤖 Machine Learning
-- 🧠 Deep Learning
-- 💬 Large Language Models
-- 📚 Retrieval-Augmented Generation
-- 👁️ Computer Vision
-- ☁️ Cloud Deployment
-- ⚡ FastAPI
-- 🐳 Docker
-
-I enjoy solving real-world business problems using Artificial Intelligence while continuously exploring emerging technologies like **Agentic AI**, **LangGraph**, and **MLOps**.
-
-<br>
-
----
-
-# 🌟 Quick Facts
-
-<table>
+<table width="100%">
 
 <tr>
-<td width="220">
+<td width="50%" valign="top">
 
-### 🎓 Education
+### 🧠 AI Knowledge Assistant
+Production RAG chatbot with semantic search over domain data.
+
+`Python` `LangChain` `LlamaIndex` `FAISS` `FastAPI` `Docker` `AWS`
+
+📊 Response time **< 2s** · REST API · Auth · Vector Search
+
+[**View Repository →**](https://github.com/manojroyal422)
 
 </td>
+<td width="50%" valign="top">
 
-<td>
+### 🧬 Brain Tumor Detection
+Deep learning model for MRI-based tumor detection & segmentation.
 
-B.Tech in Computer Science Engineering (AI & ML)
+`Python` `TensorFlow` `OpenCV` `FastAPI` `Docker`
 
-CGPA: **8.2 / 10**
+📊 **94% accuracy** on 10K+ images · 3D U-Net
+
+[**View Repository →**](https://github.com/manojroyal422)
 
 </td>
 </tr>
 
 <tr>
-<td>
+<td width="50%" valign="top">
 
-### 💼 Looking For
+### 🦺 Factory Guard AI
+Real-time PPE (helmet/vest) detection using YOLO object detection.
 
-</td>
+`Python` `PyTorch` `OpenCV` `YOLO`
 
-<td>
+📊 **30 FPS** real-time inference · Live webcam analytics
 
-AI Engineer
-
-Machine Learning Engineer
-
-Generative AI Engineer
-
-LLM Engineer
-
-NLP Engineer
+[**View Repository →**](https://github.com/manojroyal422)
 
 </td>
-</tr>
+<td width="50%" valign="top">
 
-<tr>
-<td>
+### 📈 Stock Prediction API
+Hybrid LSTM + Random Forest forecasting engine, deployed as an API.
 
-### 🌍 Location
+`Python` `LSTM` `Random Forest` `FastAPI` `Docker`
 
-</td>
+📊 **+18% accuracy gain** · Time-series forecasting
 
-<td>
-
-📍 Bengaluru, India
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-### 🚀 Interests
-
-</td>
-
-<td>
-
-Artificial Intelligence
-
-Large Language Models
-
-RAG Systems
-
-Computer Vision
-
-Cloud AI
-
-Agentic AI
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-### 💡 Languages
-
-</td>
-
-<td>
-
-Python
-
-SQL
-
-C/C++
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-### 🧠 Currently Learning
-
-</td>
-
-<td>
-
-LangGraph
-
-MCP
-
-AI Agents
-
-MLOps
-
-AWS
-
-Kubernetes
+[**View Repository →**](https://github.com/manojroyal422)
 
 </td>
 </tr>
@@ -194,316 +172,26 @@ Kubernetes
 
 ---
 
-# 🎯 My Mission
-
-> Build intelligent software that improves people's lives using Artificial Intelligence.
-
-I believe AI should not only be accurate but also **scalable**, **interpretable**, and **production-ready**.
-
-My goal is to become a world-class AI Engineer specializing in:
-
-- 🤖 Generative AI
-- 🧠 LLM Applications
-- ⚡ AI APIs
-- ☁️ Cloud AI
-- 📚 RAG Pipelines
-- 🚀 Production Deployment
-
----
-
-# 💡 What I Love Building
-
-✔ AI Chatbots
-
-✔ RAG Applications
-
-✔ Agentic AI Systems
-
-✔ FastAPI Backends
-
-✔ Deep Learning Models
-
-✔ Computer Vision Applications
-
-✔ AI Automation
-
-✔ NLP Applications
-
-✔ Cloud-Native AI Solutions
-
-✔ End-to-End AI Products
-
----
-
-# 📈 Current Focus
-
-```yaml
-Current Focus:
-
-  🤖 Large Language Models
-
-  📚 Retrieval-Augmented Generation
-
-  ⚡ Agentic AI
-
-  ☁️ AWS Cloud
-
-  🐳 Docker
-
-  🚀 FastAPI
-
-  📊 Machine Learning
-
-  👁️ Computer Vision
-
-  💬 NLP
-
-  🔥 Production AI Systems
-```
-
----
-
-# ❤️ My Philosophy
-
-> **"Learn continuously, build consistently, and share knowledge openly."**
-
-I believe every project should teach something new and create real value for users.
-
----# 💻 Tech Stack
+## 📊 GitHub Analytics
 
 <div align="center">
 
-## 👨‍💻 Programming Languages
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=manojroyal422&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=manojroyal422&theme=tokyonight&hide_border=true"/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,c,cpp,mysql&theme=dark" />
-</p>
+<br>
 
----
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojroyal422&layout=compact&theme=tokyonight&hide_border=true"/>
 
-## 🤖 Artificial Intelligence & Machine Learning
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/XGBoost-EC6C00?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge"/>
-
-</p>
-
----
-
-## 🧠 Generative AI
-
-<p>
-
-<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/LlamaIndex-0066FF?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/RAG-00C853?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Prompt%20Engineering-8E24AA?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Transformers-FF9800?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Embeddings-3949AB?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/FAISS-673AB7?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Vector%20Databases-03A9F4?style=for-the-badge"/>
-
-</p>
-
----
-
-## 🌐 Backend Development
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs&theme=dark"/>
-
-</p>
-
----
-
-## ☁ Cloud & DevOps
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,vscode&theme=dark"/>
-
-</p>
-
----
-
-## 📊 Data Science
-
-<p>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Seaborn-009688?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Statistics-0288D1?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Linear%20Algebra-7B1FA2?style=for-the-badge"/>
-
-</p>
-
----
-
-## ⚙ Databases
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark"/>
-
-</p>
-
----
-
-## 🚀 Deployment
-
-<p>
-
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/REST%20API-4CAF50?style=for-the-badge"/>
-
-</p>
-
----
-
-# 🏆 Core Competencies
-
-| AI | Backend | Cloud | Data |
-|:---|:--------|:------|:-----|
-| Machine Learning | FastAPI | AWS | SQL |
-| Deep Learning | Flask | Docker | Pandas |
-| Computer Vision | REST APIs | Linux | NumPy |
-| NLP | API Development | GitHub | Statistics |
-| Generative AI | Python | Git | Data Cleaning |
-| LLMs | Deployment | VS Code | Feature Engineering |
-| RAG | Backend Systems | CI/CD | Model Evaluation |
-| Prompt Engineering | Authentication | Cloud Deployment | Visualization |
-
----
-
-# 📈 Learning Roadmap
-
-```text
-████████████████████  Python                     100%
-
-███████████████████░  Machine Learning            95%
-
-██████████████████░░  Deep Learning               92%
-
-█████████████████░░░  Computer Vision             90%
-
-████████████████░░░░  Generative AI               88%
-
-███████████████░░░░░  LLMs                        85%
-
-██████████████░░░░░░  RAG                         82%
-
-█████████████░░░░░░░  Agentic AI                  75%
-
-████████████░░░░░░░░  LangGraph                   70%
-
-███████████░░░░░░░░░  AWS                         68%
-
-██████████░░░░░░░░░░  Kubernetes                  60%
-
-█████████░░░░░░░░░░░  MLOps                       58%
-```
-
----
-
-## 🔥 Favorite Technologies
-
-⭐ Python
-
-⭐ FastAPI
-
-⭐ PyTorch
-
-⭐ TensorFlow
-
-⭐ Hugging Face
-
-⭐ LangChain
-
-⭐ LlamaIndex
-
-⭐ Docker
-
-⭐ AWS
-
-⭐ Git
-
-⭐ SQL
-
-⭐ RAG
-
-⭐ Agentic AI
-
-⭐ Computer Vision
-
-⭐ NLP
-
-</div>
-
-
-## 🏆 GitHub Trophies
+<br>
 
 <img src="https://github-profile-trophy.vercel.app/?username=manojroyal422&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15"/>
 
-</div>
+<br>
 
----
-
-<div align="center">
-
-## 📋 GitHub Summary Cards
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manojroyal422&theme=tokyonight"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=manojroyal422&theme=tokyo-night&hide_border=true"/>
 
 <br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=manojroyal422&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=manojroyal422&theme=tokyonight"/>
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=manojroyal422&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=manojroyal422&theme=tokyonight&utcOffset=5.5"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 🐍 Contribution Snake
 
 <img src="https://raw.githubusercontent.com/manojroyal422/manojroyal422/output/github-contribution-grid-snake-dark.svg"/>
 
@@ -511,789 +199,42 @@ I believe every project should teach something new and create real value for use
 
 ---
 
-<div align="center">
+## 🎓 Certifications
 
-## 👀 Profile Visitors
-
-<img src="https://komarev.com/ghpvc/?username=manojroyal422&style=for-the-badge&label=PROFILE+VIEWS&color=0E75B6"/>
-
-<img src="https://img.shields.io/github/followers/manojroyal422?style=for-the-badge&logo=github"/>
-
-<img src="https://img.shields.io/github/stars/manojroyal422?style=for-the-badge&logo=github"/>
-
-</div>
-
----
-
-# 📈 Development Metrics
-
-```text
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-🧠 AI / ML Projects          ██████████████ 100%
-
-🤖 Generative AI             █████████████ 95%
-
-📚 RAG Systems               ████████████ 90%
-
-⚡ FastAPI APIs              ███████████ 85%
-
-👁️ Computer Vision           ██████████ 82%
-
-☁️ Cloud Deployment          █████████ 75%
-
-🐳 Docker                    ████████ 70%
-
-🚀 MLOps                     ██████ 60%
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
----
-
-# 💎 GitHub Highlights
-
-🏆 AI/ML Projects
-
-🚀 Production-Ready APIs
-
-🤖 Generative AI Applications
-
-📚 Retrieval-Augmented Generation
-
-⚡ FastAPI Backend Development
-
-👁️ Computer Vision Solutions
-
-☁️ AWS Deployment
-
-🐳 Docker Containerization
-
-🧠 Deep Learning Models
-
-💬 NLP Applications
-
-📈 Data Science Projects
-
-🌍 Open Source Learning
-
----# 🚀 Featured AI Projects
-
-<div align="center">
-
-> **Building production-ready AI solutions that solve real-world problems.**
-
-</div>
-
----
-
-<table>
-
-<tr>
-
-<td width="50%" valign="top">
-
-# 🧠 AI Knowledge Assistant
-
-<img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge"/>
-
-### 📌 Overview
-
-Production-ready **Retrieval-Augmented Generation (RAG)** chatbot that answers domain-specific questions using semantic search and Large Language Models.
-
----
-
-### ⚙️ Tech Stack
-
-🐍 Python
-
-🦜 LangChain
-
-📚 LlamaIndex
-
-🤗 Hugging Face
-
-⚡ FastAPI
-
-🗄️ FAISS
-
-🐳 Docker
-
-☁️ AWS
-
----
-
-### ✨ Features
-
-✅ Semantic Search
-
-✅ RAG Pipeline
-
-✅ Vector Embeddings
-
-✅ Context-Aware Responses
-
-✅ REST API
-
-✅ Authentication
-
----
-
-### 📊 Metrics
-
-| Metric | Value |
-|---------|------|
-| Response Time | <2 sec |
-| Architecture | RAG |
-| API | FastAPI |
-| Deployment | Docker |
-
----
-
-### 🔗 Repository
-
-[![GitHub](https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github)](https://github.com/manojroyal422)
-
-</td>
-
-<td width="50%" valign="top">
-
-# 🧬 Brain Tumor Detection
-
-<img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge"/>
-
-### 📌 Overview
-
-Deep Learning application for automatic MRI brain tumor detection and segmentation.
-
----
-
-### ⚙️ Tech Stack
-
-🐍 Python
-
-🧠 TensorFlow
-
-📊 OpenCV
-
-⚡ FastAPI
-
-🐳 Docker
-
-☁️ AWS
-
----
-
-### ✨ Features
-
-✅ 3D U-Net
-
-✅ MRI Processing
-
-✅ Medical Imaging
-
-✅ Automated Segmentation
-
-✅ REST API
-
----
-
-### 📊 Metrics
-
-| Metric | Value |
-|---------|------|
-| Accuracy | 94% |
-| Images | 10K+ |
-| Framework | TensorFlow |
-
----
-
-### 🔗 Repository
-
-[![GitHub](https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github)](https://github.com/manojroyal422)
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-# 🦺 Factory Guard AI
-
-<img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge"/>
-
-### 📌 Overview
-
-Computer Vision system for real-time PPE detection using object detection models.
-
----
-
-### ⚙️ Tech Stack
-
-🐍 Python
-
-👁️ OpenCV
-
-🔥 PyTorch
-
-📷 YOLO
-
----
-
-### ✨ Features
-
-✅ Helmet Detection
-
-✅ Vest Detection
-
-✅ Live Webcam
-
-✅ Real-Time Analytics
-
----
-
-### 📊 Metrics
-
-| Metric | Value |
-|---------|------|
-| FPS | 30 |
-| Detection | Real-Time |
-| Model | YOLO |
-
----
-
-### 🔗 Repository
-
-[![GitHub](https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github)](https://github.com/manojroyal422)
-
-</td>
-
-<td width="50%" valign="top">
-
-# 📈 Stock Prediction API
-
-<img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge"/>
-
-### 📌 Overview
-
-Hybrid Machine Learning API for stock market forecasting with REST deployment.
-
----
-
-### ⚙️ Tech Stack
-
-🐍 Python
-
-📈 LSTM
-
-🌲 Random Forest
-
-⚡ FastAPI
-
-🐳 Docker
-
----
-
-### ✨ Features
-
-✅ Time-Series Forecasting
-
-✅ REST API
-
-✅ Docker Deployment
-
-✅ Feature Engineering
-
----
-
-### 📊 Metrics
-
-| Metric | Value |
-|---------|------|
-| Accuracy Gain | +18% |
-| API | FastAPI |
-| Deployment | Docker |
-
----
-
-### 🔗 Repository
-
-[![GitHub](https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github)](https://github.com/manojroyal422)
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# 🌟 What Makes These Projects Stand Out
-
-<div align="center">
-
-| 🏆 Feature | ✔ Included |
-|------------|------------|
-| Production Ready | ✅ |
-| REST APIs | ✅ |
-| Dockerized | ✅ |
-| Cloud Deployment | ✅ |
-| Documentation | ✅ |
-| AI/ML Models | ✅ |
-| Real-world Use Cases | ✅ |
-| Recruiter Friendly | ✅ |
-
-</div>
-
----
-
-## 💡 Current Focus
-
-- 🤖 Generative AI
-- 🧠 Large Language Models
-- 📚 Retrieval-Augmented Generation (RAG)
-- ⚡ FastAPI
-- ☁️ AWS
-- 🐳 Docker
-- 🚀 Agentic AI
-- 📊 Machine Learning
-# 🏆 Achievements
-
-<div align="center">
-
-<table>
-
-<tr>
-
-<td align="center" width="25%">
-
-# 🤖
-
-## AI Projects
-
-### **10+**
-
-Production Ready
-
-</td>
-
-<td align="center" width="25%">
-
-# 📚
-
-## Models Built
-
-### **20+**
-
-Machine Learning
-
-Deep Learning
-
-LLMs
-
-</td>
-
-<td align="center" width="25%">
-
-# 🚀
-
-## APIs
-
-### **10+**
-
-FastAPI
-
-Flask
-
-REST APIs
-
-</td>
-
-<td align="center" width="25%">
-
-# ☁️
-
-## Technologies
-
-### **25+**
-
-AI
-
-Cloud
-
-DevOps
-
-</td>
-
-</tr>
-
-</table>
-
-</div>
-
----
-
-# 🎓 Certifications
-
-<div align="center">
-
-| 🎖 Certification | Provider | Status |
-|-----------------|----------|--------|
+| Certification | Provider | Status |
+|---|---|---|
 | Machine Learning Specialization | DeepLearning.AI | ✅ Completed |
-| Deep Learning | NPTEL IIT Kharagpur | ✅ Completed |
+| Deep Learning | NPTEL – IIT Kharagpur | ✅ Completed |
 | Python for Data Science | IBM | ✅ Completed |
-| Generative AI Fundamentals | Self Learning | 🚀 In Progress |
+| Generative AI Fundamentals | Self-Learning | 🚧 In Progress |
 | AWS Cloud Practitioner | AWS | 📖 Planned |
-| Docker Essentials | Self Learning | 📖 Planned |
-
-</div>
+| Docker Essentials | Self-Learning | 📖 Planned |
 
 ---
 
-# 🌍 Open Source Goals
-
-<div align="center">
-
-## 🤝 Open Source Vision
-
-</div>
-
-- 🌟 Build reusable AI libraries
-- 🤝 Contribute to Hugging Face ecosystem
-- 📚 Share AI learning resources
-- 🚀 Publish production-ready templates
-- 💡 Help beginners learn AI Engineering
-- 🔥 Contribute to LangChain ecosystem
-- 🧠 Build Agentic AI examples
-- ☁️ Open-source AI deployment templates
-
----
-
-# 🎯 2026 Career Roadmap
+## 🗺️ 2026 Roadmap
 
 ```text
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-Q1
-
-██████████████████████████
-
-Deep Learning
-Computer Vision
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-Q2
-
-██████████████████████████
-
-Generative AI
-RAG Systems
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-Q3
-
-██████████████████████████
-
-Agentic AI
-LangGraph
-MCP
-AI Agents
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-Q4
-
-██████████████████████████
-
-MLOps
-Kubernetes
-AWS
-Open Source
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Q1 ─ Deep Learning · Computer Vision
+Q2 ─ Generative AI · RAG Systems
+Q3 ─ Agentic AI · LangGraph · MCP
+Q4 ─ MLOps · Kubernetes · AWS · Open Source
 ```
 
 ---
 
-# 💼 Career Interests
+## 🤝 Let's Collaborate
+
+Open to working on: **RAG systems** · **LLM applications** · **Computer Vision** · **AI APIs** · **FastAPI backends** · **AI deployment pipelines**
 
 <div align="center">
 
-| 💻 Domain | Experience |
-|-----------|------------|
-| Artificial Intelligence | ⭐⭐⭐⭐⭐ |
-| Machine Learning | ⭐⭐⭐⭐⭐ |
-| Deep Learning | ⭐⭐⭐⭐⭐ |
-| Generative AI | ⭐⭐⭐⭐⭐ |
-| Large Language Models | ⭐⭐⭐⭐⭐ |
-| Retrieval-Augmented Generation | ⭐⭐⭐⭐⭐ |
-| Computer Vision | ⭐⭐⭐⭐☆ |
-| NLP | ⭐⭐⭐⭐☆ |
-| FastAPI | ⭐⭐⭐⭐☆ |
-| Cloud Deployment | ⭐⭐⭐☆☆ |
-| Docker | ⭐⭐⭐☆☆ |
-| MLOps | ⭐⭐☆☆☆ |
+> *"The best way to predict the future is to build it."*
 
-</div>
+<br>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=12,20,24,30&section=footer"/>
 
-# 📚 Currently Learning
-
-```yaml
-Current Learning:
-
-✅ LangGraph
-
-✅ MCP Servers
-
-✅ AI Agents
-
-✅ Multi-Agent Systems
-
-✅ Advanced RAG
-
-✅ AWS AI
-
-✅ Kubernetes
-
-✅ MLOps
-
-✅ AI Security
-
-✅ Production LLM Systems
-```
-
----
-
-# 🌟 Recruiter Highlights
-
-## ✔ Available For
-
-- AI Engineer
-- Machine Learning Engineer
-- Deep Learning Engineer
-- LLM Engineer
-- Generative AI Engineer
-- NLP Engineer
-- Computer Vision Engineer
-- AI Research Engineer
-
----
-
-## ✔ Looking For
-
-- Full-Time Opportunities
-- AI Startups
-- Product Companies
-- Research Teams
-- Global AI Companies
-
----
-
-## ✔ Core Strengths
-
-🧠 Problem Solving
-
-⚡ Fast Learner
-
-🚀 Production Mindset
-
-📊 Data Driven
-
-💬 Communication
-
-🤝 Team Collaboration
-
-📚 Continuous Learning
-
-🔥 Ownership
-
----
-
-# 🌍 Community
-
-## 🤝 Let's Collaborate On
-
-- Open Source AI Projects
-
-- LangChain Applications
-
-- LLM Applications
-
-- Computer Vision
-
-- AI APIs
-
-- FastAPI Projects
-
-- RAG Systems
-
-- AI Deployment
-
----
-
-# 💙 Support My Work
-
-<div align="center">
-
-⭐ Star my repositories if they helped you.
-
-🍴 Fork projects to build your own.
-
-🤝 Let's build something amazing together.
-
-🚀 Always open to collaborating on AI projects.
-
-</div>
-
----
-
-# 💬 Favorite Quote
-
-<div align="center">
-
-> **"The best way to predict the future is to build it."**
-
-### 💡 Artificial Intelligence is not replacing humans.
-
-### 🚀 It is empowering humans to solve bigger problems.
-
-</div>
-
----
-
-<div align="center">
-
-# ⭐ Thanks for visiting my profile!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=gradient&customColorList=12,20,24,30"/>
-
-### Happy Coding 👨‍💻
-
-### 🚀 Open to AI/ML Opportunities
-
-</div>
-# ⚡ Automation & GitHub Actions
-
-<div align="center">
-
-# 📈 Auto Generated Statistics
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manojroyal422&theme=tokyonight"/>
-
-</p>
-
----
-
-# ⚡ Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-
-```text
-Python               ████████████████████░░   80%
-
-Machine Learning     ████████████████░░░░░░   65%
-
-Generative AI        █████████████░░░░░░░░░   55%
-
-FastAPI              ████████████░░░░░░░░░░   50%
-
-Docker               █████████░░░░░░░░░░░░░   40%
-
-AWS                  ███████░░░░░░░░░░░░░░░   30%
-```
-
-<!--END_SECTION:waka-->
-
----
-
-# 🌟 Weekly Goals
-
-- ✅ Learn one new AI concept
-- ✅ Push code daily
-- ✅ Improve one existing project
-- ✅ Solve DSA problems
-- ✅ Contribute to open source
-- ✅ Write technical notes
-- ✅ Build AI demos
-
----
-
-# 📅 Monthly Goals
-
-| Goal | Status |
-|------|--------|
-| Build AI Project | 🚀 |
-| Learn New Framework | 🚀 |
-| Open Source Contribution | 🚀 |
-| Publish GitHub Project | 🚀 |
-| Improve README | 🚀 |
-
----
-
-# 🔥 Current Focus
-
-```yaml
-Focus:
-
-AI Engineering
-
-Generative AI
-
-LLMs
-
-LangChain
-
-RAG
-
-FastAPI
-
-Docker
-
-AWS
-
-MLOps
-
-Agentic AI
-
-LangGraph
-
-MCP
-```
-
----
-
-# 🌍 Connect With Me
-
-<p align="center">
-
-<a href="mailto:manojroyal965@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/manoj-royal-270301270">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/manojroyal422">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-<div align="center">
-
-## ⭐ Thanks for visiting!
-
-*"Code. Learn. Build. Repeat."*
+**⭐ Star my repos · 🍴 Fork & build · 🚀 Let's create something great together**
 
 </div>
