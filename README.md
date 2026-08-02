@@ -1218,24 +1218,6 @@ Current Learning:
 
 <div align="center">
 
-## 🤖 Profile Automation
-
-> My GitHub profile stays updated automatically using GitHub Actions.
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/manojroyal422/manojroyal422/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
-
-</p>
-
----
-
 # 📈 Auto Generated Statistics
 
 <p align="center">
