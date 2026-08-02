@@ -1,4 +1,12 @@
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12,20,24,30&text=Manoj%20Royal&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20GenAI%20%7C%20RAG%20%7C%20LLMs&descAlignY=55&descSize=18"/> <br> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=650&lines=Building+Production-Ready+AI+Systems;LLMs+%7C+RAG+%7C+Agentic+AI;Turning+Ideas+Into+Intelligent+Software;Open+to+AI%2FML+Opportunities+🚀"/>
 
+<br><br>
+
+<a href="mailto:manojroyal965@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://linkedin.com/in/manoj-royal-270301270"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://github.com/manojroyal422"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a> <a href="https://www.kaggle.com/"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=manojroyal422&style=for-the-badge&label=PROFILE+VIEWS&color=6C63FF"/> <img src="https://img.shields.io/github/followers/manojroyal422?style=for-the-badge&logo=github&color=6C63FF"/> <img src="https://img.shields.io/badge/Open%20to-Work-success?style=for-the-badge"/> </div> <br>
 .shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
