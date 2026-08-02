@@ -470,42 +470,6 @@ I believe every project should teach something new and create real value for use
 
 </div>
 
----
-# 📊 GitHub Analytics
-
-<div align="center">
-
-## 📈 GitHub Statistics
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=manojroyal422&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojroyal422&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 🔥 Contribution Streak
-
-<img src="https://streak-stats.demolab.com?user=manojroyal422&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 📈 Contribution Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=manojroyal422&theme=tokyo-night&hide_border=true&area=true"/>
-
-</div>
-
----
-
-<div align="center">
 
 ## 🏆 GitHub Trophies
 
