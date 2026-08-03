@@ -1,64 +1,159 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12,20,24,30&text=Manoj%20Royal&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20GenAI%20%7C%20RAG%20%7C%20LLMs&descAlignY=55&descSize=18"/> <br> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=650&lines=Building+Production-Ready+AI+Systems;LLMs+%7C+RAG+%7C+Agentic+AI;Turning+Ideas+Into+Intelligent+Software;Open+to+AI%2FML+Opportunities+🚀"/>
+<!--====================================================================-->
+<!--                     ⚡ ELITE AI ENGINEER HERO ⚡                     -->
+<!--====================================================================-->
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=360&color=0:020617,15:0F172A,35:1E3A8A,60:2563EB,85:4F46E5,100:06B6D4&text=Manoj%20Royal&fontColor=ffffff&fontSize=68&fontAlignY=37&animation=twinkling&desc=AI%20Engineer%20•%20LLMs%20•%20Agentic%20AI%20•%20Machine%20Learning%20•%20Cloud&descAlignY=61&descSize=22"/>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2400&pause=800&center=true&vCenter=true&width=980&color=22D3EE&lines=Building+Production-Grade+AI+Products;Generative+AI+%7C+LLMs+%7C+RAG+%7C+AI+Agents;Machine+Learning+Engineer;FastAPI+%7C+Python+%7C+Docker+%7C+AWS;Turning+Ideas+Into+Intelligent+Software"/>
 
 <br><br>
 
-<a href="mailto:manojroyal965@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://linkedin.com/in/manoj-royal-270301270"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://github.com/manojroyal422"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a> <a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a> <a href="https://www.kaggle.com/"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
+<a href="mailto:manojroyal965@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=manojroyal422&style=for-the-badge&label=PROFILE+VIEWS&color=6C63FF"/> <img src="https://img.shields.io/github/followers/manojroyal422?style=for-the-badge&logo=github&color=6C63FF"/> <img src="https://img.shields.io/badge/Open%20to-Work-success?style=for-the-badge"/> </div> <br>
-.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://linkedin.com/in/manoj-royal-270301270">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/manojroyal422">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.kaggle.com/">
-<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+<a href="YOUR_PORTFOLIO">
+<img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<a href="YOUR_RESUME">
+<img src="https://img.shields.io/badge/Resume-22C55E?style=for-the-badge&logo=readthedocs&logoColor=white"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=manojroyal422&style=for-the-badge&label=PROFILE+VIEWS&color=0E75B6"/>
+<img src="https://komarev.com/ghpvc/?username=manojroyal422&style=for-the-badge&label=PROFILE+VIEWS&color=7C3AED"/>
 
-<img src="https://img.shields.io/github/followers/manojroyal422?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/github/followers/manojroyal422?style=for-the-badge"/>
 
-<img src="https://img.shields.io/github/stars/manojroyal422?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/github/stars/manojroyal422?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Open%20to-Work-success?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Focus-AI%20%7C%20ML%20%7C%20GenAI-blueviolet?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Open%20to-AI%20Engineer%20Roles-success?style=for-the-badge"/>
 
 </div>
 
 ---
-# 🚀 About Me
 
-<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTZyd3VxOG5waTVuOWE0a3B3NWN0cnp0MGJmNjV3cGVmdmM0d2I3aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
+# 👋 Hello, I'm Manoj Royal
 
-## 👨‍💻 Who Am I?
+<img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-I'm **Manoj Royal**, an aspiring **AI Engineer** passionate about transforming ideas into intelligent software.
+### 🚀 AI Engineer • Generative AI • Machine Learning • Backend Engineering
 
-Instead of building notebook-only machine learning models, I enjoy designing **production-ready AI systems** that combine:
+I build **production-ready AI systems** powered by **Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), AI Agents, Computer Vision, and scalable backend architecture**.
 
-- 🤖 Machine Learning
-- 🧠 Deep Learning
-- 💬 Large Language Models
-- 📚 Retrieval-Augmented Generation
-- 👁️ Computer Vision
-- ☁️ Cloud Deployment
-- ⚡ FastAPI
-- 🐳 Docker
-
-I enjoy solving real-world business problems using Artificial Intelligence while continuously exploring emerging technologies like **Agentic AI**, **LangGraph**, and **MLOps**.
+My passion is transforming research into **real-world intelligent software**—from model development and inference pipelines to cloud deployment and production APIs.
 
 <br>
+
+### 🏆 What I Bring
+
+✔ Production-Ready AI Applications
+
+✔ LLM & RAG Pipelines
+
+✔ AI Agents & Multi-Agent Workflows
+
+✔ Machine Learning & Deep Learning
+
+✔ FastAPI Microservices
+
+✔ Computer Vision Solutions
+
+✔ Dockerized Deployments
+
+✔ Cloud-Ready AI Systems
+
+---
+
+# ⚡ Engineering Philosophy
+
+> **"The value of AI is measured not by the intelligence of its models, but by the impact of the products it powers."**
+
+---
+
+# 💼 Professional Snapshot
+
+| 🎯 Focus | 🚀 Details |
+|:---------|:-----------|
+| **Current Role** | AI Engineer (Aspiring) |
+| **Specialization** | LLMs • Generative AI • Machine Learning |
+| **Backend** | FastAPI • REST APIs • Python |
+| **Deployment** | Docker • AWS • Linux |
+| **Learning** | LangGraph • MCP • AI Agents • MLOps |
+| **Looking For** | AI Engineer • ML Engineer • GenAI Engineer |
+
+---
+
+# 🧠 AI Expertise
+
+```text
+Artificial Intelligence
+├── Machine Learning
+├── Deep Learning
+├── Large Language Models
+├── Retrieval-Augmented Generation
+├── AI Agents
+├── Prompt Engineering
+├── Computer Vision
+└── NLP
+```
+
+---
+
+# ⚙ Engineering Stack
+
+```text
+Backend
+├── Python
+├── FastAPI
+├── REST APIs
+├── PostgreSQL
+├── Docker
+├── Git
+├── Linux
+└── AWS
+```
+
+---
+
+# 🎯 Current Mission
+
+```text
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🧠 Building Production AI Products
+
+⚡ Developing Intelligent APIs
+
+📚 Mastering Agentic AI
+
+☁ Deploying Cloud-Native Systems
+
+🚀 Contributing to Open Source
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+---
+
+# 🌍 Vision
+
+> Building AI that is **intelligent**, **scalable**, **reliable**, and **useful**—creating software that solves meaningful real-world problems.
+
+<br clear="right"/>
 
 ---
 
@@ -475,49 +570,6 @@ I believe every project should teach something new and create real value for use
 
 <div align="center">
 
-## 📋 GitHub Summary Cards
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manojroyal422&theme=tokyonight"/>
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=manojroyal422&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=manojroyal422&theme=tokyonight"/>
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=manojroyal422&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=manojroyal422&theme=tokyonight&utcOffset=5.5"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 🐍 Contribution Snake
-
-<img src="https://raw.githubusercontent.com/manojroyal422/manojroyal422/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 👀 Profile Visitors
-
-<img src="https://komarev.com/ghpvc/?username=manojroyal422&style=for-the-badge&label=PROFILE+VIEWS&color=0E75B6"/>
-
-<img src="https://img.shields.io/github/followers/manojroyal422?style=for-the-badge&logo=github"/>
-
-<img src="https://img.shields.io/github/stars/manojroyal422?style=for-the-badge&logo=github"/>
-
-</div>
-
----
 
 # 📈 Development Metrics
 
@@ -1291,3 +1343,4 @@ MCP
 *"Code. Learn. Build. Repeat."*
 
 </div>
+Itachi Sharingan
