@@ -1053,56 +1053,6 @@ Current Learning:
 ### 🚀 It is empowering humans to solve bigger problems.
 
 </div>
-
----
-
-<div align="center">
-
-# ⭐ Thanks for visiting my profile!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=gradient&customColorList=12,20,24,30"/>
-
-### Happy Coding 👨‍💻
-
-### 🚀 Open to AI/ML Opportunities
-
-</div>
-# ⚡ Automation & GitHub Actions
-
-<div align="center">
-
-# 📈 Auto Generated Statistics
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manojroyal422&theme=tokyonight"/>
-
-</p>
-
----
-
-# ⚡ Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-
-```text
-Python               ████████████████████░░   80%
-
-Machine Learning     ████████████████░░░░░░   65%
-
-Generative AI        █████████████░░░░░░░░░   55%
-
-FastAPI              ████████████░░░░░░░░░░   50%
-
-Docker               █████████░░░░░░░░░░░░░   40%
-
-AWS                  ███████░░░░░░░░░░░░░░░   30%
-```
-
-<!--END_SECTION:waka-->
-
----
-
 # 🌟 Weekly Goals
 
 - ✅ Learn one new AI concept
@@ -1127,63 +1077,16 @@ AWS                  ███████░░░░░░░░░░░░�
 
 ---
 
-# 🔥 Current Focus
-
-```yaml
-Focus:
-
-AI Engineering
-
-Generative AI
-
-LLMs
-
-LangChain
-
-RAG
-
-FastAPI
-
-Docker
-
-AWS
-
-MLOps
-
-Agentic AI
-
-LangGraph
-
-MCP
-```
-
----
-
-# 🌍 Connect With Me
-
-<p align="center">
-
-<a href="mailto:manojroyal965@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/manoj-royal-270301270">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/manojroyal422">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
-
----
-
 <div align="center">
 
-## ⭐ Thanks for visiting!
+# ⭐ Thanks for visiting my profile!
 
-*"Code. Learn. Build. Repeat."*
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=gradient&customColorList=12,20,24,30"/>
 
-</div>
-Itachi Sharingan
+### Happy Coding 👨‍💻
+
+### 🚀 Open to AI/ML Opportunities
+
+
+
+---
